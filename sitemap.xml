@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://zfcpartners.com/</loc>
-    <lastmod>2026-03-18</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-03-20</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zfcpartners.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://zfcpartners.com/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zfcpartners.com/"/>
+  </url>
+  <url>
+    <loc>https://zfcpartners.com/?lang=es</loc>
+    <lastmod>2026-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zfcpartners.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://zfcpartners.com/?lang=es"/>
   </url>
 </urlset>
