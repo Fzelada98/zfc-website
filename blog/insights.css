@@ -1,0 +1,75 @@
+/* ZFC Partners — Insights (blog) shared styles. Matches the main site brand. */
+:root{
+  --bg-deep:#040a06;--bg:#060e09;--bg-mid:#0a1610;--bg-light:#0e1e14;
+  --sand:#c4aa82;--sand-dim:#7a6a50;--sand-faint:#4a3e2e;
+  --sand-bright:#d4be98;--sand-pale:#e8d8c0;--paper:#f5f0e8;
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%;}
+body{font-family:'Inter',sans-serif;background:var(--bg-deep);color:var(--sand);-webkit-font-smoothing:antialiased;line-height:1.6;}
+a{color:inherit;}
+::selection{background:rgba(196,170,130,0.2);color:var(--sand-bright);}
+
+/* Nav (slim, matches home) */
+.bnav{position:sticky;top:0;z-index:100;display:flex;justify-content:space-between;align-items:center;
+  padding:0 40px;height:64px;background:rgba(4,10,6,0.92);backdrop-filter:blur(20px);
+  border-bottom:1px solid rgba(196,170,130,0.06);}
+.bnav a.brand{display:flex;align-items:center;gap:10px;text-decoration:none;font-weight:500;font-size:14px;letter-spacing:0.08em;color:var(--sand);}
+.bnav .mark{width:18px;height:18px;position:relative;flex-shrink:0;}
+.bnav .mark i{position:absolute;width:8px;height:8px;background:var(--sand);}
+.bnav .mark i:nth-child(1){top:0;left:0;}
+.bnav .mark i:nth-child(2){top:5px;left:5px;opacity:.55;}
+.bnav .mark i:nth-child(3){top:10px;left:10px;opacity:.25;}
+.bnav .links{display:flex;gap:28px;align-items:center;}
+.bnav .links a{font-family:'Outfit';font-weight:300;font-size:10px;letter-spacing:0.25em;text-transform:uppercase;color:var(--sand-dim);text-decoration:none;transition:color .3s;}
+.bnav .links a:hover{color:var(--sand);}
+@media(max-width:640px){.bnav{padding:0 20px;}.bnav .links a:not(.cta){display:none;}}
+
+.wrap{max-width:1100px;margin:0 auto;padding:0 40px;}
+@media(max-width:640px){.wrap{padding:0 20px;}}
+.overline{font-family:'Outfit';font-weight:200;font-size:10px;letter-spacing:0.5em;color:var(--sand-faint);text-transform:uppercase;}
+
+/* Insights hub */
+.hub-head{padding:88px 0 8px;}
+.hub-head h1{font-weight:500;font-size:clamp(28px,4vw,40px);letter-spacing:0.03em;color:var(--sand);margin:10px 0 14px;}
+.hub-head p{font-family:'Source Serif 4';font-weight:300;font-size:16px;color:var(--sand-dim);max-width:640px;line-height:1.8;}
+.pillars{display:flex;flex-wrap:wrap;gap:10px;margin:32px 0 8px;}
+.pillar{font-family:'Outfit';font-weight:300;font-size:10px;letter-spacing:0.22em;text-transform:uppercase;color:var(--sand-dim);border:1px solid rgba(196,170,130,0.14);padding:8px 16px;}
+.post-list{display:grid;grid-template-columns:1fr 1fr;gap:2px;margin:48px 0 0;}
+@media(max-width:760px){.post-list{grid-template-columns:1fr;}}
+.post-card{display:block;background:var(--bg-mid);border:1px solid rgba(196,170,130,0.05);padding:40px 36px;text-decoration:none;transition:border-color .4s,transform .4s,background .4s;}
+.post-card:hover{border-color:rgba(196,170,130,0.16);transform:translateY(-3px);background:var(--bg-light);}
+.post-card .cat{font-family:'Outfit';font-weight:300;font-size:9px;letter-spacing:0.3em;text-transform:uppercase;color:var(--sand-faint);}
+.post-card h2{font-weight:500;font-size:20px;line-height:1.35;color:var(--sand);margin:14px 0 12px;letter-spacing:0.01em;}
+.post-card p{font-size:13.5px;color:var(--sand-dim);line-height:1.7;}
+.post-card .meta{margin-top:20px;font-family:'Outfit';font-weight:300;font-size:10px;letter-spacing:0.2em;color:var(--sand-faint);text-transform:uppercase;}
+.post-card.soon{pointer-events:none;opacity:.5;border-style:dashed;}
+
+/* Article */
+.article{max-width:720px;margin:0 auto;padding:72px 40px 40px;}
+@media(max-width:640px){.article{padding:48px 22px 32px;}}
+.article .cat{font-family:'Outfit';font-weight:300;font-size:10px;letter-spacing:0.3em;text-transform:uppercase;color:var(--sand-faint);}
+.article h1{font-weight:500;font-size:clamp(26px,4.4vw,38px);line-height:1.25;letter-spacing:0.01em;color:var(--sand);margin:16px 0 18px;}
+.article .byline{font-family:'Outfit';font-weight:300;font-size:11px;letter-spacing:0.18em;text-transform:uppercase;color:var(--sand-dim);border-bottom:1px solid rgba(196,170,130,0.08);padding-bottom:28px;margin-bottom:36px;}
+.article .lead{font-family:'Source Serif 4';font-weight:300;font-size:20px;line-height:1.7;color:var(--sand-bright);margin-bottom:30px;}
+.article p,.article li{font-family:'Source Serif 4';font-weight:300;font-size:17px;line-height:1.85;color:var(--sand-pale);margin-bottom:22px;}
+.article h2{font-family:'Inter';font-weight:500;font-size:21px;letter-spacing:0.01em;color:var(--sand);margin:44px 0 16px;}
+.article h3{font-family:'Inter';font-weight:500;font-size:16px;color:var(--sand-bright);margin:30px 0 10px;}
+.article ul{margin:0 0 22px 4px;list-style:none;}
+.article li{position:relative;padding-left:22px;margin-bottom:12px;}
+.article li::before{content:'•';position:absolute;left:0;color:var(--sand-faint);}
+.article strong{color:var(--sand);font-weight:400;}
+.article blockquote{border-left:2px solid var(--sand-faint);padding:6px 0 6px 24px;margin:30px 0;font-family:'Source Serif 4';font-style:italic;font-size:19px;color:var(--sand-bright);}
+.article a.inl{color:var(--sand-bright);border-bottom:1px solid var(--sand-faint);text-decoration:none;}
+
+/* IR call-to-action (lead gen) */
+.ir-cta{max-width:720px;margin:56px auto 0;background:var(--bg-mid);border:1px solid rgba(196,170,130,0.1);padding:40px;text-align:center;}
+.ir-cta .overline{display:block;margin-bottom:10px;}
+.ir-cta h3{font-weight:500;font-size:20px;color:var(--sand);margin-bottom:10px;letter-spacing:0.02em;}
+.ir-cta p{font-family:'Source Serif 4';font-weight:300;font-size:15px;color:var(--sand-dim);line-height:1.7;max-width:520px;margin:0 auto 24px;}
+.ir-cta a{display:inline-block;font-family:'Outfit';font-weight:300;font-size:10px;letter-spacing:0.32em;text-transform:uppercase;color:var(--bg);background:var(--sand);padding:14px 34px;text-decoration:none;transition:.3s;}
+.ir-cta a:hover{background:var(--sand-bright);}
+
+.bfoot{border-top:1px solid rgba(196,170,130,0.05);margin-top:72px;padding:36px 0;text-align:center;}
+.bfoot a{font-family:'Outfit';font-weight:300;font-size:10px;letter-spacing:0.25em;text-transform:uppercase;color:var(--sand-dim);text-decoration:none;}
+.bfoot .cr{font-size:11px;color:var(--sand-faint);margin-top:14px;}
