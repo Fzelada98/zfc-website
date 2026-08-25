@@ -1,33 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://zfcpartners.com/</loc>
-    <lastmod>2026-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://zfcpartners.com/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://zfcpartners.com/?lang=es"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://zfcpartners.com/"/>
-  </url>
-  <url>
-    <loc>https://zfcpartners.com/?lang=es</loc>
-    <lastmod>2026-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://zfcpartners.com/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://zfcpartners.com/?lang=es"/>
-  </url>
-  <url>
-    <loc>https://zfcpartners.com/blog/</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://zfcpartners.com/blog/data-centers-latam-the-power-thesis.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://zfcpartners.com/</loc><lastmod>2026-08-25</lastmod></url>
+  <url><loc>https://zfcpartners.com/?lang=es</loc><lastmod>2026-08-25</lastmod></url>
+  <url><loc>https://zfcpartners.com/projects/</loc><lastmod>2026-08-25</lastmod></url>
+  <url><loc>https://zfcpartners.com/blog/</loc><lastmod>2026-08-25</lastmod></url>
+  <url><loc>https://zfcpartners.com/blog/data-centers-latam-the-power-thesis.html</loc><lastmod>2026-08-25</lastmod></url>
+  <url><loc>https://zfcpartners.com/projects/olmos-wind.html</loc><lastmod>2026-08-25</lastmod></url>
+  <url><loc>https://zfcpartners.com/projects/frontera.html</loc><lastmod>2026-08-25</lastmod></url>
+  <url><loc>https://zfcpartners.com/projects/aurelion.html</loc><lastmod>2026-08-25</lastmod></url>
+  <url><loc>https://zfcpartners.com/projects/solar-ii.html</loc><lastmod>2026-08-25</lastmod></url>
 </urlset>
