@@ -1,5 +1,7 @@
 ## 2026-09-04 - Peru Power Demand and the RtB Pipeline
 
+<!-- PUBLISHED:make-webhook at 2026-09-04T14:22:01Z -->
+
 Peru's peak power demand is forecast to reach 8,416 MW in 2026, with energy demand up 4.2% to 65,761 GWh, per COES' latest medium-term report.
 
 Demand growth at that pace is not met by incremental capacity alone. It requires new generation entering the system on a predictable timeline, with permits, land rights, and grid connections already secured well ahead of construction.
