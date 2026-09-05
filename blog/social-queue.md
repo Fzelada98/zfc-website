@@ -17,3 +17,25 @@ Full pipeline: https://zfcpartners.com/projects/
 #renewableenergy #Peru #BESS #infrastructure
 
 ---
+
+## 2026-09-05 - Chile's Curtailment Outran Its Own Capacity Growth
+
+Chile added 2.2 TWh of new solar generation in 2024. The grid curtailed 2.7 TWh that same year, more than the new build itself, per Acera data drawn from Coordinador Eléctrico Nacional dispatch records.
+
+Curtailment used to be treated as a rounding error against capacity growth. In Chile, since 2024, it has been growing faster than the capacity that supposedly causes it.
+
+Most bilateral PPAs signed in Chile over the last five years were priced against P50/P90 irradiance curves, energy the panels can physically produce, not against a dispatch order from CEN. When the system operator tells a plant to back off at midday, whoever holds volume risk in that contract absorbs the shortfall. Debt sized against generated GWh, rather than settled GWh, is debt sized against a number the grid increasingly declines to deliver.
+
+Between January and May 2025, 2,107 GWh were curtailed at an estimated cost of $125 million, per Acera. Full-year 2025 curtailment reached roughly 6,084 GWh, up 7.8% year over year. BESS discharge offset about 2 TWh of that, per CEN-linked figures, cutting potential curtailment by close to 24%. Storage is working. It just isn't keeping pace.
+
+My own view is that volume risk needs to sit on the term sheet explicitly, curtailment-sharing language in the PPA, or storage co-located behind the same interconnection point, instead of living as an assumption buried inside a P90 exceedance curve. Sponsors who skip that conversation now will have it forced on them at refinancing, on worse terms.
+
+It is part of why we build storage into new generation assets from the start rather than retrofitting it after Ready-to-Build.
+
+Does Chile move toward a formal curtailment compensation mechanism, something closer to what parts of Spain and the US have tried, or does the market keep rationing through falling capture prices until new solar simply stops penciling without a hedge?
+
+More on how we're sequencing storage into new capacity: https://zfcpartners.com/projects/
+
+#LATAM #renewableenergy #energytransition
+
+---
