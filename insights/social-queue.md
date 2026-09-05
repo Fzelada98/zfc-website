@@ -34,7 +34,7 @@ It is part of why Olmos Wind carries battery storage in the project design rathe
 
 Does Chile move toward a formal curtailment compensation mechanism, something closer to what parts of Spain and the US have tried, or does the market keep rationing through falling capture prices until new solar simply stops penciling without a hedge?
 
-The rest of the portfolio and where each asset sits: https://zfcpartners.com/projects/
+Longer version, including where the DSCR assumption breaks: https://zfcpartners.com/insights/chile-curtailment-volume-risk-ppa.html
 
 #LATAM #renewableenergy #energytransition
 
