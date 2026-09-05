@@ -20,7 +20,7 @@ Full pipeline: https://zfcpartners.com/projects/
 
 ## 2026-09-05 - Chile's Curtailment Outran Its Own Capacity Growth
 
-Chile added 2.2 TWh of new solar generation in 2024. The grid curtailed 2.7 TWh that same year, more than the new build itself, per Acera data drawn from Coordinador Eléctrico Nacional dispatch records.
+Chile added 2.2 TWh of solar generation between 2023 and 2024. Over the same period curtailment rose by 2.7 TWh, more than the entire increase in output, on a 2024 total of 5,909 GWh curtailed, per Acera data drawn from Coordinador Eléctrico Nacional dispatch records.
 
 Curtailment used to be treated as a rounding error against capacity growth. In Chile, since 2024, it has been growing faster than the capacity that supposedly causes it.
 
@@ -30,11 +30,11 @@ Between January and May 2025, 2,107 GWh were curtailed at an estimated cost of $
 
 My own view is that volume risk needs to sit on the term sheet explicitly, curtailment-sharing language in the PPA, or storage co-located behind the same interconnection point, instead of living as an assumption buried inside a P90 exceedance curve. Sponsors who skip that conversation now will have it forced on them at refinancing, on worse terms.
 
-It is part of why we build storage into new generation assets from the start rather than retrofitting it after Ready-to-Build.
+It is part of why Olmos Wind carries battery storage in the project design rather than as a retrofit after Ready-to-Build.
 
 Does Chile move toward a formal curtailment compensation mechanism, something closer to what parts of Spain and the US have tried, or does the market keep rationing through falling capture prices until new solar simply stops penciling without a hedge?
 
-More on how we're sequencing storage into new capacity: https://zfcpartners.com/projects/
+The rest of the portfolio and where each asset sits: https://zfcpartners.com/projects/
 
 #LATAM #renewableenergy #energytransition
 
