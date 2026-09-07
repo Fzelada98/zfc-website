@@ -42,6 +42,8 @@ Longer version, including where the DSCR assumption breaks: https://zfcpartners.
 
 ## 2026-09-07 - Mexico's CFE Is Both Offtaker and Controller
 
+<!-- PUBLISHED:make-webhook at 2026-09-07T18:56:59Z -->
+
 Mexico's 2025-2030 electricity plan asks private developers to fund at least 6,400 MW of new wind and solar. On paper that reads as a straightforward capital-raise story.
 
 What the term sheet actually has to price: CFE, the state utility, is legally required to control at least 54% of everything injected into the grid, on an annual average, under the new Ley del Sector Eléctrico. Sheinbaum has said she wants that closer to 60%. Private output under long-term CFE contracts counts toward CFE's own quota, and much of the new capacity is being structured so CFE keeps operational control of the plant while the debt stays off CFE's own balance sheet.
