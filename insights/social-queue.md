@@ -39,3 +39,24 @@ Longer version, including where the DSCR assumption breaks: https://zfcpartners.
 #LATAM #renewableenergy #energytransition
 
 ---
+
+## 2026-09-07 - Mexico's CFE Is Both Offtaker and Controller
+
+Mexico's 2025-2030 electricity plan asks private developers to fund at least 6,400 MW of new wind and solar. On paper that reads as a straightforward capital-raise story.
+
+What the term sheet actually has to price: CFE, the state utility, is legally required to control at least 54% of everything injected into the grid, on an annual average, under the new Ley del Sector Eléctrico. Sheinbaum has said she wants that closer to 60%. Private output under long-term CFE contracts counts toward CFE's own quota, and much of the new capacity is being structured so CFE keeps operational control of the plant while the debt stays off CFE's own balance sheet.
+
+That means CFE is both the counterparty buying the power and, per the government's own description of the structure, the party keeping operational control of the plant itself. A lender underwriting that debt is underwriting CFE twice, once as payer, once as controller of the asset the loan is secured against.
+
+CFE's payment track record with private generators matters more here than how much global infrastructure capital wants into Mexican renewables this year.
+
+There is a real counterargument: nearshoring demand is genuine, and the government needs this capacity more than it needs to prove a point. Fair. Predictability and independence are still different things, and that gap is what covenants exist to price.
+
+Our own pipeline sits in Peru, where an independent operator sets dispatch, not the offtaker. Different risk entirely.
+
+Full mechanism, and where step-in rights actually matter:
+https://zfcpartners.com/insights/mexico-cfe-offtaker-risk.html
+
+#Mexico #ProjectFinance #EnergyTransition
+
+---
