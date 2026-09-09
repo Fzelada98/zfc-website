@@ -62,3 +62,23 @@ https://zfcpartners.com/insights/mexico-cfe-offtaker-risk.html
 #Mexico #ProjectFinance #EnergyTransition
 
 ---
+
+## 2026-09-09 - Peru's Real Bottleneck Is the Wire, Not the Plant
+
+COES is sitting on close to 20,000 MW of generation projects with permits advanced, land secured and a name on the file. Its own grid can take roughly 1,000 MW more of solar and wind before the next constraint bites.
+
+A transmission line that was supposed to enter service in 2026 was not even bid until 2023. ISA and Grupo Energía Bogotá won it that October, 1,054 kilometers, and per COES it will not be ready before 2030. It slipped four years and it was already inside the ten-year plan when that happened.
+
+Everyone underwriting Peru renewables right now is pricing a COD off the plant's own construction schedule. That used to be the right number to watch. It is not anymore. Financial close, EPC contracting, permitting, all of it has compressed faster than the concession process for the wires those plants need to actually evacuate power. COES's president has said the country has burned through its efficient reserve margin, which is a polite way of saying the marginal MWh now comes from diesel while cheaper renewable capacity sits waiting on a substation upgrade near Marcona or a northern corridor still stuck in MEF procurement.
+
+A PPA priced against a COD and a project priced against an interconnection date are two different assets. Right now the market prices them as one, and whoever holds that gap at financial close is carrying a risk nobody put a number on.
+
+Fixed RtB dates only help if the grid keeps its own calendar. Ours are built the way they are because that is the one variable a developer controls.
+
+Does COES and MEF actually reform how transmission gets concessioned, or does Peru manage this the way it has so far and hope the 2030 line lands on time?
+
+Full mechanism, and where the debt sizing breaks: https://zfcpartners.com/insights/peru-transmission-queue-risk.html
+
+#Peru #ProjectFinance #EnergyTransition
+
+---
