@@ -65,6 +65,8 @@ https://zfcpartners.com/insights/mexico-cfe-offtaker-risk.html
 
 ## 2026-09-09 - Peru's Real Bottleneck Is the Wire, Not the Plant
 
+<!-- PUBLISHED:make-webhook at 2026-09-10T07:41:08Z -->
+
 COES is sitting on close to 20,000 MW of generation projects with permits advanced, land secured and a name on the file. Its own grid can take roughly 1,000 MW more of solar and wind before the next constraint bites.
 
 A transmission line that was supposed to enter service in 2026 was not even bid until 2023. ISA and Grupo Energía Bogotá won it that October, 1,054 kilometers, and per COES it will not be ready before 2030. It slipped four years and it was already inside the ten-year plan when that happened.
