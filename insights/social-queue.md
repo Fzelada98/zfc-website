@@ -87,6 +87,8 @@ Full mechanism, and where the debt sizing breaks: https://zfcpartners.com/insigh
 
 ## 2026-09-11 - Colombia's Reliability Charge Just Bet on Solar
 
+<!-- PUBLISHED:make-webhook at 2026-09-11T08:47:24Z -->
+
 Colombia's capacity market just outsourced its dry-year insurance policy to the resource least equipped to prove it works.
 
 In April 2024 the country's reservoirs closed the month at 32.91%, two points above the 27% level that triggers formal rationing measures, per XM. By August-September 2025, XM was again flagging the lowest reservoir levels in twenty years. Two scares in eighteen months is not a tail event.
