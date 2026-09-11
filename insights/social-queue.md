@@ -84,3 +84,26 @@ Full mechanism, and where the debt sizing breaks: https://zfcpartners.com/insigh
 #Peru #ProjectFinance #EnergyTransition
 
 ---
+
+## 2026-09-11 - Colombia's Reliability Charge Just Bet on Solar
+
+Colombia's capacity market just outsourced its dry-year insurance policy to the resource least equipped to prove it works.
+
+In April 2024 the country's reservoirs closed the month at 32.91%, two points above the 27% level that triggers formal rationing measures, per XM. By August-September 2025, XM was again flagging the lowest reservoir levels in twenty years. Two scares in eighteen months is not a tail event.
+
+Then came the reliability charge auction. 4,441 of 4,489 MW awarded, 99% of the new firm capacity, went to solar. Clearing price: $18.2/MWh.
+
+A firm energy obligation on a thermal plant is close to a physical promise, fuel permitting. On a standalone solar plant it is a statistical derating with no storage behind it, and the market just priced that derating almost identically to fuel-backed capacity.
+
+To be fair, that haircut is exactly what ENFICC methodology is built to apply. Whether it was calibrated against a hydrology regime this stressed is the part nobody has published.
+
+Lenders sizing debt against that OEF revenue should not book it the way they would book a gas plant's capacity payment. Some already don't. The ones who do will find out at the next Declaratoria de Escasez, not before.
+
+Our own pipeline sits in Peru, not Colombia, but only one of our four projects, Olmos Wind, carries integrated storage instead of a bare interconnection, and that gap is the whole argument in miniature.
+
+Full mechanism, and where the ENFICC math actually breaks:
+https://zfcpartners.com/insights/colombia-firm-energy-hydro-risk.html
+
+#Colombia #ProjectFinance #EnergyTransition
+
+---
