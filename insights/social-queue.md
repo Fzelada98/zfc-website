@@ -112,6 +112,8 @@ https://zfcpartners.com/insights/colombia-firm-energy-hydro-risk.html
 
 ## 2026-09-14 - Brazil Compensates the Wrong Half of Its Curtailment
 
+<!-- PUBLISHED:make-webhook at 2026-09-14T08:45:01Z -->
+
 Brazil finally passed a rule to compensate developers for curtailment. It does not cover the kind of curtailment doing most of the damage.
 
 20.6% of available wind and solar output was curtailed in 2025, up from 9.3% in 2024, more than doubling in a year, per ONS-sourced reporting. 54% of that loss came from oversupply, generation the system simply couldn't absorb at midday, not from a congested wire, per ONS's own mapping.
