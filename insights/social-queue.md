@@ -109,3 +109,27 @@ https://zfcpartners.com/insights/colombia-firm-energy-hydro-risk.html
 #Colombia #ProjectFinance #EnergyTransition
 
 ---
+
+## 2026-09-14 - Brazil Compensates the Wrong Half of Its Curtailment
+
+Brazil finally passed a rule to compensate developers for curtailment. It does not cover the kind of curtailment doing most of the damage.
+
+20.6% of available wind and solar output was curtailed in 2025, up from 9.3% in 2024, more than doubling in a year, per ONS-sourced reporting. 54% of that loss came from oversupply, generation the system simply couldn't absorb at midday, not from a congested wire, per ONS's own mapping.
+
+The July compensation decree covers transmission delays and reliability curtailment. Oversupply, the "energy" cause in ONS's own taxonomy, was excluded on purpose: it's treated as a market signal rather than an operator failure, and paying for it would blunt the incentive to hedge or store instead of building into an hour that's already full.
+
+Even where the rule does pay, free-market compensation is indexed to PLD, the spot price, and PLD tends to sit near its floor in the exact hours curtailment is worst. A generator gets paid the price the oversupply itself already depressed.
+
+ONS projects oversupply will drive up to 96% of curtailment by 2029. A compensation mechanism built for 2023's problem is not a backstop for 2029's.
+
+My read: lenders underwriting Northeast wind and solar should treat this decree as a partial, price-linked offset, not a risk transfer, and keep pricing the remaining exposure directly into the PPA and the debt sizing.
+
+Our own pipeline sits in Peru, not Brazil, but the discipline is the same: price the dispatch risk into the contract, don't wait for a regulator to write it away later.
+
+Does Brazil widen compensation to oversupply once Northeast storage economics catch up, or does the market solve it alone, through merchant batteries sited specifically to arbitrage those hours?
+
+Full mechanism, and where the PLD math breaks down: https://zfcpartners.com/insights/brazil-curtailment-compensation-gap.html
+
+#Brazil #ProjectFinance #EnergyTransition
+
+---
