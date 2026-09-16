@@ -135,3 +135,23 @@ Full mechanism, and where the PLD math breaks down: https://zfcpartners.com/insi
 #Brazil #ProjectFinance #EnergyTransition
 
 ---
+
+## 2026-09-16 - Peru's Storage Market Exists on Paper, Not on a Price Sheet
+
+Peru's Law 32249 created a market for battery storage and grid balancing services, effective January 1, 2026. Osinergmin has still not published what it pays for a megawatt of frequency regulation inside it.
+
+COES runs the annual competition analysis per service. Osinergmin sets the maximum price a provider can be paid for supplying it. Until that number exists, a merchant BESS project has a legal market to sell into and nothing a lender can underwrite against.
+
+Look at who is actually building storage right now. Mining companies, buying their own reliability through self-supply contracts they control, not waiting on a regulator. Utility-scale, grid-services storage is stuck behind exactly that wait, and it isn't a shortage of capital holding it there.
+
+My own read is that Osinergmin ends up pricing the new services on an avoided-cost basis, what a marginal thermal unit would have charged for the same balancing role, rather than what a battery actually costs to finance in Peru today. Colombia's capacity market leaned the same way with solar. If I'm right, the correction shows up at refinancing, not at financial close.
+
+Olmos Wind carries battery storage integrated into the design and is targeting Ready-to-Build in Q1 2028, built into this exact uncertainty rather than after it resolves.
+
+Does Osinergmin publish a bankable price within the year, or does Peru's storage build-out keep running years ahead on self-supply and years behind on the grid-services side?
+
+https://zfcpartners.com/insights/peru-storage-price-signal.html
+
+#Peru #BESS #ProjectFinance
+
+---
