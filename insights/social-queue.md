@@ -138,6 +138,8 @@ Full mechanism, and where the PLD math breaks down: https://zfcpartners.com/insi
 
 ## 2026-09-16 - Peru's Storage Market Exists on Paper, Not on a Price Sheet
 
+<!-- PUBLISHED:make-webhook at 2026-09-16T08:46:09Z -->
+
 Peru's Law 32249 created a market for battery storage and grid balancing services, effective January 1, 2026. Osinergmin has still not published what it pays for a megawatt of frequency regulation inside it.
 
 COES runs the annual competition analysis per service. Osinergmin sets the maximum price a provider can be paid for supplying it. Until that number exists, a merchant BESS project has a legal market to sell into and nothing a lender can underwrite against.
