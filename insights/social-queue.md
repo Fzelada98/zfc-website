@@ -161,6 +161,8 @@ https://zfcpartners.com/insights/peru-storage-price-signal.html
 
 ## 2026-09-18 - Peru's Spot Market Just Showed What Waiting on an Auction Costs
 
+<!-- PUBLISHED:make-webhook at 2026-09-18T08:45:00Z -->
+
 In March, a single natural gas supply disruption pushed Peru's spot price above $250/MWh and drove settlement payments to roughly four times their normal level, per COES. That is the market new solar and wind capacity is being pushed toward, whether anyone planned it that way or not.
 
 Peru's last renewable auction, in 2024, locked in 20-year solar PPAs at an average $27.36/MWh, per Osinergmin's own results. No fifth round has been scheduled since, despite Osinergmin's own materials flagging one for 2025-2026. Four auctions since 2008 was already a slow cadence. This is now the longest gap between rounds.
