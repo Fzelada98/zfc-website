@@ -157,3 +157,25 @@ https://zfcpartners.com/insights/peru-storage-price-signal.html
 #Peru #BESS #ProjectFinance
 
 ---
+
+
+## 2026-09-18 - Peru's Spot Market Just Showed What Waiting on an Auction Costs
+
+In March, a single natural gas supply disruption pushed Peru's spot price above $250/MWh and drove settlement payments to roughly four times their normal level, per COES. That is the market new solar and wind capacity is being pushed toward, whether anyone planned it that way or not.
+
+Peru's last renewable auction, in 2024, locked in 20-year solar PPAs at an average $27.36/MWh, per Osinergmin's own results. No fifth round has been scheduled since, despite Osinergmin's own materials flagging one for 2025-2026. Four auctions since 2008 was already a slow cadence. This is now the longest gap between rounds.
+
+A 20-year PPA sold to a distribution company is what let lenders size debt off a fixed, known revenue line instead of a forecast. Take the auction off the calendar and a project reaching Ready-to-Build in 2027 or 2028 has two paths left: a bilateral PPA with an industrial or mining offtaker, or the spot market COES runs. Mining alone drew close to 8,000 GWh in 2024 and has shown it will sign direct corporate contracts, so that path is real. It is also a shorter tenor against one corporate credit, not a twenty-year utility pass-through, and it should be levered differently.
+
+December's split of capacity and energy payments reads like Osinergmin redesigning the mechanism itself. That is a different signal than queuing up round five on the old template, and the market has mostly priced it as the latter anyway.
+
+Our own pipeline sits in this exact window. Offtake structure belongs on the RtB checklist next to permitting and interconnection, not after it.
+
+Does Osinergmin call a fifth round before this pipeline reaches RtB, or does Peru's new capacity move to corporate and merchant contracts the way Chile's and Brazil's already have, without the country ever deciding to?
+
+Full mechanism, and where the DSCR assumption breaks:
+https://zfcpartners.com/insights/peru-renewable-auction-gap.html
+
+#Peru #ProjectFinance #EnergyTransition
+
+---
