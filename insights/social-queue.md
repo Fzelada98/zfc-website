@@ -181,3 +181,24 @@ https://zfcpartners.com/insights/peru-renewable-auction-gap.html
 #Peru #ProjectFinance #EnergyTransition
 
 ---
+
+## 2026-09-21 - Ecuador Is Re-Running Its 2024 Blackout Experiment
+
+Twenty-two meters. That is how far above its operational floor Ecuador's Mazar reservoir was sitting by early April 2026. By June, flows across the whole Paute basin had fallen near the 10th percentile of historical record. This is the same reservoir that produced 91 days of loss-of-load in 2024, at a cost estimated near 2% of GDP.
+
+The state's fix since then has been almost entirely thermal: rented power barges, a 100 MW gas project, a hydro-adjacent plant finally switched on six years late. Call it 540 MW of new firm capacity, built to survive the next dry season, not to change what the system leans on when the rain doesn't come.
+
+Private renewables got a law, not a market. The private self-authorization cap moved from 10 MW to 100 MW, with a state-backed PPA guarantee attached. A third the scale of a normal utility platform elsewhere in the region, carrying the same fixed permitting and interconnection cost, against a guarantee that is only as sound as the treasury behind it.
+
+That treasury is the same one that couldn't fund thermal maintenance for eight straight years. Underwriting that PPA means underwriting the sovereign twice.
+
+To be fair, Ecuador is small, dollarized, and fiscally stretched. A faster private build was never realistic on the government's own terms. That's exactly why the guarantee's credit quality belongs in the term sheet, not the marketing deck.
+
+INAMHI's own forecast says a Q3 2026 rationing event gets materially more likely if Mazar doesn't recover by mid-year. Does that forecast miss, or does Ecuador run this exact experiment a second time in three years?
+
+Full mechanism, and why a 100 MW cap doesn't fix a concentration problem:
+https://zfcpartners.com/insights/ecuador-hydro-baseload-risk.html
+
+#Ecuador #ProjectFinance #EnergyTransition
+
+---
