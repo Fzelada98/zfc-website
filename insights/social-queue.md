@@ -184,6 +184,8 @@ https://zfcpartners.com/insights/peru-renewable-auction-gap.html
 
 ## 2026-09-21 - Ecuador Is Re-Running Its 2024 Blackout Experiment
 
+<!-- PUBLISHED:make-webhook at 2026-09-21T08:45:05Z -->
+
 Twenty-two meters. That is how far above its operational floor Ecuador's Mazar reservoir was sitting by early April 2026. By June, flows across the whole Paute basin had fallen near the 10th percentile of historical record. This is the same reservoir that produced 91 days of loss-of-load in 2024, at a cost estimated near 2% of GDP.
 
 The state's fix since then has been almost entirely thermal: rented power barges, a 100 MW gas project, a hydro-adjacent plant finally switched on six years late. Call it 540 MW of new firm capacity, built to survive the next dry season, not to change what the system leans on when the rain doesn't come.
