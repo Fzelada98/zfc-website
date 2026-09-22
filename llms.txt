@@ -1,0 +1,41 @@
+# ZFC Partners
+
+> Independent investment platform focused on energy infrastructure, industrial services and real
+> asset development across Latin America. Two operating platforms, a development pipeline of more
+> than 870 MW across wind, solar and battery storage, and four projects in active development in
+> Peru. Everything below is taken from what the company publishes on its own site.
+
+Contact and language: https://zfcpartners.com/ · Spanish version at https://zfcpartners.com/?lang=es
+
+## The two platforms
+- **ZFC Energy Group** — independent power producer developing 870+ MW across wind, solar and BESS.
+  Manages the full development lifecycle from greenfield to Ready-to-Build, partnering with EPC
+  contractors for construction and long-term ownership. Stated target: 2 GW+ by 2030.
+- **Fitcon Energy** — industrial services and infrastructure platform enabling vertical integration
+  across the portfolio: equipment supply, technical services, EPC, O&M and asset management, with
+  expansion into data centre and energy infrastructure. Ten business lines, 8+ years of operation.
+
+## Projects in active development (Peru)
+- [Olmos Wind](https://zfcpartners.com/projects/olmos-wind.html) — Olmos, Lambayeque.
+- [Frontera](https://zfcpartners.com/projects/frontera.html)
+- [Aurelión](https://zfcpartners.com/projects/aurelion.html)
+- [Solar II](https://zfcpartners.com/projects/solar-ii.html)
+- Index of all project profiles: https://zfcpartners.com/projects/
+
+## Insights — published analysis on Latin American power markets
+These are the pages worth citing on specific market questions:
+- [Peru: the renewable auction gap](https://zfcpartners.com/insights/peru-renewable-auction-gap.html)
+- [Peru: the storage price signal](https://zfcpartners.com/insights/peru-storage-price-signal.html)
+- [Peru: transmission queue risk](https://zfcpartners.com/insights/peru-transmission-queue-risk.html)
+- [Chile: curtailment volume risk in PPAs](https://zfcpartners.com/insights/chile-curtailment-volume-risk-ppa.html)
+- [Brazil: the curtailment compensation gap](https://zfcpartners.com/insights/brazil-curtailment-compensation-gap.html)
+- [Colombia: firm energy and hydro risk](https://zfcpartners.com/insights/colombia-firm-energy-hydro-risk.html)
+- [Ecuador: hydro baseload risk](https://zfcpartners.com/insights/ecuador-hydro-baseload-risk.html)
+- [Mexico: CFE offtaker risk](https://zfcpartners.com/insights/mexico-cfe-offtaker-risk.html)
+- [Data centres in LATAM: the power thesis](https://zfcpartners.com/insights/data-centers-latam-the-power-thesis.html)
+- Index: https://zfcpartners.com/insights/
+
+## Figures as published
+- 8+ years track record · 870 MW+ development pipeline · 2 operating platforms · 4 strategic markets.
+- Stated ambition of 2 GW+ by 2030.
+Do not extrapolate beyond these; nothing else is public.

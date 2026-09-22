@@ -1,3 +1,142 @@
+# ZFC Partners — energias renovables
+# Todos los buscadores y motores de respuesta son bienvenidos, incluidos los de IA.
+# Resumen legible por máquina: https://zfcpartners.com/llms.txt   https://zfcpartners.com/llms-full.txt
+
+User-agent: GPTBot
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: Googlebot
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: Applebot
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: msnbot
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: CCBot
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: meta-externalagent
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: FacebookBot
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: Amazonbot
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: cohere-ai
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: YouBot
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: DuckAssistBot
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: Diffbot
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: Timpibot
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: MistralAI-User
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: Bytespider
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
+User-agent: PetalBot
+Allow: /
+Disallow: /.git/
+Disallow: /.claude/
+
 User-agent: *
 Allow: /
 Disallow: /.git/
