@@ -207,6 +207,8 @@ https://zfcpartners.com/insights/ecuador-hydro-baseload-risk.html
 
 ## 2026-09-23 - Argentina's RIGI Solves the Wrong Risk
 
+<!-- PUBLISHED:make-webhook at 2026-09-23T08:45:39Z -->
+
 Renewable generators in Argentina got about 40% of what CAMMESA owed them in September 2025, per La Política Online's reporting on the shortfall. Not a rate dispute, not a curtailment order. FODER, the trust fund that backstops RenovAr and MATER contracts, simply didn't receive its government transfer that month.
 
 Meanwhile the story everyone's excited about is RIGI: thirty years of frozen tax, customs and FX rules for any project clearing a $200 million ticket. A 180 MW wind project in Buenos Aires and a solar park in Mendoza have already signed up.
