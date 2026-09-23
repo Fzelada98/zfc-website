@@ -204,3 +204,23 @@ https://zfcpartners.com/insights/ecuador-hydro-baseload-risk.html
 #Ecuador #ProjectFinance #EnergyTransition
 
 ---
+
+## 2026-09-23 - Argentina's RIGI Solves the Wrong Risk
+
+Renewable generators in Argentina got about 40% of what CAMMESA owed them in September 2025, per La Política Online's reporting on the shortfall. Not a rate dispute, not a curtailment order. FODER, the trust fund that backstops RenovAr and MATER contracts, simply didn't receive its government transfer that month.
+
+Meanwhile the story everyone's excited about is RIGI: thirty years of frozen tax, customs and FX rules for any project clearing a $200 million ticket. A 180 MW wind project in Buenos Aires and a solar park in Mendoza have already signed up.
+
+RIGI insures you against a future government changing your tax treatment. It says nothing about whether this government's treasury can fund the trust that pays you next quarter, and that's a different risk, on a much shorter horizon, than the one the paperwork actually protects.
+
+Private MATER contracts grew close to 80% between 2022 and 2024, per industry data on the program, energy moving toward bilateral corporate offtakers who settle outside the CAMMESA-FODER chain. That doesn't erase counterparty risk. It relocates it, onto a balance sheet you can actually underwrite yourself.
+
+Our own pipeline sits in Peru, not Argentina, but the habit travels: grade the entity that signs the wire transfer, separately from whatever law protects the contract sitting around it.
+
+Genuine question I don't have an answer to: does RIGI capital push this market toward more private settlement, or does everything of scale still clear through CAMMESA eventually, wrapper or not?
+
+https://zfcpartners.com/insights/argentina-rigi-payment-risk.html
+
+#Argentina #ProjectFinance #LatAmEnergy
+
+---
