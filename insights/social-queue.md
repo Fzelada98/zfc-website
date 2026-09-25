@@ -226,3 +226,28 @@ https://zfcpartners.com/insights/argentina-rigi-payment-risk.html
 #Argentina #ProjectFinance #LatAmEnergy
 
 ---
+
+## 2026-09-25 - The Capital Didn't Cross the Border
+
+Every LATAM investment deck since July has said the same thing: US developers canceled the wind, solar and storage pipeline that lost its tax credit, so that capital walks south next.
+
+It hasn't moved. Latin America's share of global private clean energy investment sits at just 5%, per the IEA's latest count, nothing close to what a reallocation that size would produce.
+
+For scale: 1,891 US power projects were canceled in 2025, 266 GW of capacity, per Cleanview's tracking, with clean energy taking 93% of that hit.
+
+The mechanism nobody's pricing: US utility-scale renewables run on tax equity, banks and insurers monetizing a transferable 45Y or 48E credit against their own tax bill. Cancel the project and that capital doesn't go hunting for a new address. It just stops mattering, because the next deal still needs a US tax bill to shelter.
+
+A Peruvian or Chilean project is non-recourse debt sized to a DSCR against contracted or merchant cash flow. Almost no overlap in investor base, and development teams carry the same mismatch. A decade spent queuing interconnection through ERCOT does not transfer to COES or a consulta previa timeline in the Peruvian highlands.
+
+What probably does cross: hardware. Panel and turbine order books built for canceled US megaprojects need a buyer, and that's a capex tailwind, not a financing one.
+
+Our own pipeline is underwritten on the financing that already exists here, project debt against contracted cash flow, not a US tax credit's shelf life.
+
+I don't have a confident answer on timing: does the talent and equipment actually cross in the next 18 months, or does that capital just wait out a possible reversal in Washington?
+
+Full mechanism, and where the tax-equity comparison breaks:
+https://zfcpartners.com/insights/latam-capital-gap-us-retreat.html
+
+#LATAM #ProjectFinance #EnergyTransition
+
+---
