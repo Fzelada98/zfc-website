@@ -229,6 +229,8 @@ https://zfcpartners.com/insights/argentina-rigi-payment-risk.html
 
 ## 2026-09-25 - The Capital Didn't Cross the Border
 
+<!-- PUBLISHED:make-webhook at 2026-09-25T08:45:01Z -->
+
 Every LATAM investment deck since July has said the same thing: US developers canceled the wind, solar and storage pipeline that lost its tax credit, so that capital walks south next.
 
 It hasn't moved. Latin America's share of global private clean energy investment sits at just 5%, per the IEA's latest count, nothing close to what a reallocation that size would produce.
