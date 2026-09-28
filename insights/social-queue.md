@@ -227,6 +227,28 @@ https://zfcpartners.com/insights/argentina-rigi-payment-risk.html
 
 ---
 
+## 2026-09-28 - Peru's Faster Permit Isn't the Schedule
+
+Senace's own target for 2026: mining environmental impact studies cleared in 150 to 160 days. Hydrocarbons technical reports are already down 46% since 2024, per the agency's figures.
+
+Every developer conversation I have treats that number like the master schedule. It's one permit among several, and it happens to be the only one with a public file number attached to it.
+
+Land rights don't work that way. Easements and community agreements close parcel by parcel, off any public registry, on no legislated clock at all. A model can show the environmental certificate fully approved and the land 60% closed, and the second number is the one that decides when concrete gets poured.
+
+Mining already ran this experiment. Fully permitted projects have sat idle for years over land access no EIA timeline touched. Peru still counted 151 active social conflicts nationally as of July 2026, per the Defensoría del Pueblo, down from 166 in October but far from zero.
+
+A faster environmental certificate doesn't buy a faster land closing. It moves the surprise later, to the week the crews are supposed to show up.
+
+Our own Ready-to-Build definition treats land rights, permitting and grid connection as milestones that close together, not a queue where one unlocks the next.
+
+Genuine open question: does a faster formal review give developers more runway to close land deals before a deadline forces it, or does trimming the public-comment window inside that same review just push the same disputes into the construction phase, where they cost more to resolve?
+
+https://zfcpartners.com/insights/peru-social-license-permitting-gap.html
+
+#Peru #ProjectFinance #EnergyTransition
+
+---
+
 ## 2026-09-25 - The Capital Didn't Cross the Border
 
 <!-- PUBLISHED:make-webhook at 2026-09-25T08:45:01Z -->
