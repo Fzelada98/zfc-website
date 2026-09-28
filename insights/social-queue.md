@@ -229,6 +229,8 @@ https://zfcpartners.com/insights/argentina-rigi-payment-risk.html
 
 ## 2026-09-28 - Peru's Faster Permit Isn't the Schedule
 
+<!-- PUBLISHED:make-webhook at 2026-09-28T08:45:41Z -->
+
 Senace's own target for 2026: mining environmental impact studies cleared in 150 to 160 days. Hydrocarbons technical reports are already down 46% since 2024, per the agency's figures.
 
 Every developer conversation I have treats that number like the master schedule. It's one permit among several, and it happens to be the only one with a public file number attached to it.
