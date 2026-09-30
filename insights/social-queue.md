@@ -277,3 +277,24 @@ https://zfcpartners.com/insights/latam-capital-gap-us-retreat.html
 #LATAM #ProjectFinance #EnergyTransition
 
 ---
+
+## 2026-09-30 - Mexico's Data Center Queue Nobody Prices
+
+CFE's own congestion data: hyperscalers in Querétaro are waiting 6 to 24 months for an interconnection point. Everyone selling into Mexico's data center boom is still pricing a PPA against the commissioning date printed in the contract.
+
+That date assumes something that isn't true. A power purchase agreement between a generator and a data center has two connections buried inside it, the plant's and the building's. Developers can expedite the first. The second sits in a CFE queue and belongs to the offtaker, and no generation term sheet touches it.
+
+Querétaro went from a handful of data centers in 2022 to 800+ MW of installed and under-construction hyperscale capacity by 2025, close to what a city of 600,000 people draws. The Bajío grid behind it was built for scattered industrial load, not that density.
+
+CFE raised Querétaro-specific spending 51% this year, to roughly MX$64.3 million, funding two transmission lines. Its total 2026 budget still fell 16.7% in real terms, and the increase reads more like triage than a fix. The tiebreaker on who gets connected first is arrival order: manufacturers who showed up for nearshoring in 2019-2022 outrank hyperscalers signing PPAs now.
+
+My own read: underwrite the offtaker's connection milestone as a financing condition, not the date typed into the PPA. A plant finished on schedule with nowhere to deliver its power earns nothing.
+
+Genuinely open question: does hyperscaler pressure compress that queue faster than an ordinary utility planning cycle, the way Querétaro's own budget bump suggests, or does Mexico end up with a stack of financially closed renewable projects waiting on a breaker position for a load that's waiting on one too?
+
+Full mechanism, and why the load side is the risk nobody's underwriting:
+https://zfcpartners.com/insights/mexico-data-center-interconnection-queue.html
+
+#Mexico #DataCenters #ProjectFinance
+
+---
