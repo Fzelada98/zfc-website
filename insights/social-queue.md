@@ -280,6 +280,8 @@ https://zfcpartners.com/insights/latam-capital-gap-us-retreat.html
 
 ## 2026-09-30 - Mexico's Data Center Queue Nobody Prices
 
+<!-- PUBLISHED:make-webhook at 2026-09-30T08:54:45Z -->
+
 CFE's own congestion data: hyperscalers in Querétaro are waiting 6 to 24 months for an interconnection point. Everyone selling into Mexico's data center boom is still pricing a PPA against the commissioning date printed in the contract.
 
 That date assumes something that isn't true. A power purchase agreement between a generator and a data center has two connections buried inside it, the plant's and the building's. Developers can expedite the first. The second sits in a CFE queue and belongs to the offtaker, and no generation term sheet touches it.
