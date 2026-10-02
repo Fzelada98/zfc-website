@@ -300,3 +300,28 @@ https://zfcpartners.com/insights/mexico-data-center-interconnection-queue.html
 #Mexico #DataCenters #ProjectFinance
 
 ---
+
+## 2026-10-02 - Peru's Merchant Tail Is Priced Backwards
+
+$29.5 per MWh and $67.7 per MWh. Same Peruvian power market, the same month, two completely different prices for a megawatt-hour, per COES data reported by Gestión.
+
+The first is the system's weighted-average marginal cost through March 2025. The second is what generators were actually collecting under free-market contracts signed earlier. Most of the debt I've seen sized against uncontracted volume in Peru this year still discounts the tail off the first number, treated as the honest, conservative floor.
+
+COES's own base case has that marginal cost reaching $150 to $200 per MWh by 2033, if the country keeps failing to add new generation and transmission.
+
+I've watched a credit committee read that forecast and discount it anyway. Fair enough: a regulator forecasting scarcity has every reason to make scarcity sound expensive.
+
+I've also read the interconnection queue sitting behind that forecast. "Nothing new gets built" looks a lot closer to the base case than the stress case through the early 2030s.
+
+A flat merchant-tail discount treats a decade of likely undersupply the same as the decade of oversupply that just ended. Those are not the same bet.
+
+Our own pipeline in Lambayeque and Moquegua will spend real operating years inside whatever that spot market becomes, signed buyer or not.
+
+Genuinely open: does Peru's transmission build-out catch up before 2033 and prove the conservative lenders right, or does the queue slip again and hand the upside to whoever kept volume uncontracted?
+
+Full mechanism, and the two prices the whole argument rests on:
+https://zfcpartners.com/insights/peru-merchant-tail-mispricing.html
+
+#Peru #ProjectFinance #MerchantRisk
+
+---
