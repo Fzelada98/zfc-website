@@ -303,6 +303,8 @@ https://zfcpartners.com/insights/mexico-data-center-interconnection-queue.html
 
 ## 2026-10-02 - Peru's Merchant Tail Is Priced Backwards
 
+<!-- PUBLISHED:make-webhook at 2026-10-02T08:45:02Z -->
+
 $29.5 per MWh and $67.7 per MWh. Same Peruvian power market, the same month, two completely different prices for a megawatt-hour, per COES data reported by Gestión.
 
 The first is the system's weighted-average marginal cost through March 2025. The second is what generators were actually collecting under free-market contracts signed earlier. Most of the debt I've seen sized against uncontracted volume in Peru this year still discounts the tail off the first number, treated as the honest, conservative floor.
