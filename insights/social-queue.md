@@ -327,3 +327,28 @@ https://zfcpartners.com/insights/peru-merchant-tail-mispricing.html
 #Peru #ProjectFinance #MerchantRisk
 
 ---
+
+## 2026-10-05 - Chile's Storage Fleet Doesn't Qualify for Its Own Capacity Payment
+
+Chile just told the storage market what a megawatt of flexibility is worth. Most of what's being built doesn't qualify for the full price.
+
+DS N°1 of 2026 brought batteries into the country's capacity-payment regime. Five hours of duration earns full credit. Two hours earns about half. One hour earns barely a third.
+
+Nearly all the storage I've seen financed in Chile over the last three years sits behind a solar interconnection point, sized two to four hours, built to shift the midday glut into the evening peak.
+
+That design solves curtailment. Firm capacity during a scarcity hour is a separate question, and retrofitting duration later means new cells and a bigger footprint, not a parameter change.
+
+Even for batteries that do qualify, capacity payments run close to 15% of stand-alone storage revenue. The other 85% is still arbitrage, the same spread getting squeezed as more solar and storage chase the identical hours.
+
+A lender treating the new capacity line as a hedge against that compression is pricing 15% of revenue like it does more work than it can.
+
+Duration is a financing decision now, as much as an engineering one. Pushing a battery to five hours only pencils if the asset's actual job is firm capacity, not intraday shifting.
+
+Genuinely open: does the ten-year transitional methodology grandfather the fleet already under construction, or does it apply the same haircut from day one? I haven't been able to pin that down.
+
+Full mechanism, and the revenue math behind it:
+https://zfcpartners.com/insights/chile-storage-capacity-duration-mismatch.html
+
+#Chile #BESS #ProjectFinance
+
+---
