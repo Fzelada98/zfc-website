@@ -330,6 +330,8 @@ https://zfcpartners.com/insights/peru-merchant-tail-mispricing.html
 
 ## 2026-10-05 - Chile's Storage Fleet Doesn't Qualify for Its Own Capacity Payment
 
+<!-- PUBLISHED:make-webhook at 2026-10-06T07:40:13Z -->
+
 Chile just told the storage market what a megawatt of flexibility is worth. Most of what's being built doesn't qualify for the full price.
 
 DS N°1 of 2026 brought batteries into the country's capacity-payment regime. Five hours of duration earns full credit. Two hours earns about half. One hour earns barely a third.
