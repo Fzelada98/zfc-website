@@ -357,6 +357,8 @@ https://zfcpartners.com/insights/chile-storage-capacity-duration-mismatch.html
 
 ## 2026-10-07 - Brazil's Auction Record Skips the Discount Rate
 
+<!-- PUBLISHED:make-webhook at 2026-10-07T08:45:34Z -->
+
 Brazil just set a record low for solar and nobody asked what rate it was discounted at.
 
 January 2025: wind cleared at $23.90/MWh, solar at $20.39/MWh in the A-6 auction, per ANEEL and CCEE. That same month Brazil's Selic rate sat at 14.75% on its way to 15%, the highest level since 2006, per the Central Bank.
