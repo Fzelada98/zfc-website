@@ -354,3 +354,26 @@ https://zfcpartners.com/insights/chile-storage-capacity-duration-mismatch.html
 #Chile #BESS #ProjectFinance
 
 ---
+
+## 2026-10-07 - Brazil's Auction Record Skips the Discount Rate
+
+Brazil just set a record low for solar and nobody asked what rate it was discounted at.
+
+January 2025: wind cleared at $23.90/MWh, solar at $20.39/MWh in the A-6 auction, per ANEEL and CCEE. That same month Brazil's Selic rate sat at 14.75% on its way to 15%, the highest level since 2006, per the Central Bank.
+
+Those contracts run 20 years and are IPCA-indexed, so the tariff grows with inflation. That protects the top line. It says nothing about the rate a lender uses to discount that revenue back to today, and that rate is sitting at a two-decade high.
+
+A $20/MWh bid only pencils with concessional BNDES debt, a properly hedged dollar structure, or a bet that Selic falls hard before refinancing comes due. Two of those are financeable now. The third is a forecast wearing a term sheet.
+
+Wind priced closer to its own LCOE than solar did in the same auction. The discipline isn't uniform across this cohort, which is exactly why the average is getting celebrated instead of questioned.
+
+My own pipeline sits in Peru, where the last auction cleared nearer $27/MWh and still drew skepticism, with none of Brazil's indexation or rate-cut story to lean on.
+
+Genuinely open: does Selic ease enough over the life of these contracts to vindicate the bid, the way Brazilian cutting cycles usually go, or does part of this cohort restructure before COD?
+
+Full mechanism, and where the discount-rate assumption actually breaks:
+https://zfcpartners.com/insights/brazil-auction-price-bankability-gap.html
+
+#Brazil #ProjectFinance #EnergyTransition
+
+---
