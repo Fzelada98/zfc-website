@@ -379,3 +379,26 @@ https://zfcpartners.com/insights/brazil-auction-price-bankability-gap.html
 #Brazil #ProjectFinance #EnergyTransition
 
 ---
+
+## 2026-10-09 - Colombia's Wind Corridor Is Stuck Behind a Reopened Consultation
+
+Colombia closed its consultation process on the Colectora transmission line in June 2023, after signing off 235 ethnic communities along the route. Licensing moved forward. Everyone underwrote that number as finished.
+
+In 2026, the Ministry of Interior certified 18 more communities on the same corridor, years after the process that was supposed to have closed it. The operation date, originally set for November 2022, now sits at April 2027.
+
+Most transmission delays in this region get filed under queue problem: not enough lines built fast enough. Colectora is a different animal. The gating step was declared finished, then reopened by an administrative act no developer in La Guajira controls, funds, or can contest commercially.
+
+AES Colombia has said the delay is costing it directly. Wind capacity sits built, or close to it, with no line able to move the power out of the department.
+
+A plant curtailed for grid congestion is still connected to something. A plant finished without its evacuation line has nowhere to send a single megawatt.
+
+My own read: price the interconnection date on someone else's asset the way you'd price a weak counterparty's credit, not as a fixed input on a term sheet. Consulta previa completion is a point estimate. That holds whether or not you think the right behind it is the correct one, which I do.
+
+What I haven't been able to pin down: whether Colombia ever puts a hard close date on who can be certified for consultation on a given corridor, or whether that list stays open indefinitely. Nobody has forced that choice yet.
+
+Full mechanism, and what an open-ended permitting step does to a financed wind pipeline:
+https://zfcpartners.com/insights/colombia-guajira-transmission-delay.html
+
+#Colombia #Transmission #ProjectFinance
+
+---
