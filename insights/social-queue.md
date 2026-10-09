@@ -382,6 +382,8 @@ https://zfcpartners.com/insights/brazil-auction-price-bankability-gap.html
 
 ## 2026-10-09 - Colombia's Wind Corridor Is Stuck Behind a Reopened Consultation
 
+<!-- PUBLISHED:make-webhook at 2026-10-09T08:53:55Z -->
+
 Colombia closed its consultation process on the Colectora transmission line in June 2023, after signing off 235 ethnic communities along the route. Licensing moved forward. Everyone underwrote that number as finished.
 
 In 2026, the Ministry of Interior certified 18 more communities on the same corridor, years after the process that was supposed to have closed it. The operation date, originally set for November 2022, now sits at April 2027.
