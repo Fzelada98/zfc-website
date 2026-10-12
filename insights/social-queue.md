@@ -407,6 +407,8 @@ https://zfcpartners.com/insights/colombia-guajira-transmission-delay.html
 
 ## 2026-10-12 - Brazil's Curtailment Average Hides the Real Risk
 
+<!-- PUBLISHED:make-webhook at 2026-10-12T08:48:32Z -->
+
 One in five. That's the share of Brazil's solar and wind output curtailed in 2025, roughly BRL 6.5 billion, about $1.2 billion, in lost revenue nationally, per Volt Robotics data reported by pv magazine.
 
 In the Northeast, where most of that wind and solar is actually sited, curtailment ran closer to 27% for solar and 16% for wind in 2025, concentrated in Bahia and Ceará, per Rystad Energy.
