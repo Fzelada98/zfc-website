@@ -404,3 +404,28 @@ https://zfcpartners.com/insights/colombia-guajira-transmission-delay.html
 #Colombia #Transmission #ProjectFinance
 
 ---
+
+## 2026-10-12 - Brazil's Curtailment Average Hides the Real Risk
+
+One in five. That's the share of Brazil's solar and wind output curtailed in 2025, roughly BRL 6.5 billion, about $1.2 billion, in lost revenue nationally, per Volt Robotics data reported by pv magazine.
+
+In the Northeast, where most of that wind and solar is actually sited, curtailment ran closer to 27% for solar and 16% for wind in 2025, concentrated in Bahia and Ceará, per Rystad Energy.
+
+Averages do their job. They also bury the one region carrying the real exposure under the regions that aren't.
+
+Wood Mackenzie's own forecast has that gap widening, not closing: roughly 11% decade-average curtailment in the Northeast through 2035, against about 2% in the Southeast and Centre-West.
+
+What the national figure misses: most bilateral contracts in Brazil's free market commit the seller to a fixed volume, not a "take whatever gets generated" deal. When ONS curtails a plant for grid reasons, that obligation doesn't shrink. The seller still has to buy the shortfall in the spot market it's actually exposed to.
+
+A curtailment order and a resource shortfall cost the generator the same megawatt-hour. Only one of them usually makes it into the model.
+
+My own read: debt against a Northeast asset needs a submarket-specific curtailment input, not a blended national number, and contract language that separates grid-cause shortfalls from resource-cause ones.
+
+Genuinely open: does Northeast-Southeast transmission reinforcement arrive fast enough to arrest that widening path, or does Brazil's cheapest power just keep drawing the least reliable delivery route, however fast lines get built?
+
+Full mechanism, and the contract math a national average skips:
+https://zfcpartners.com/insights/brazil-northeast-curtailment-risk.html
+
+#Brazil #Curtailment #ProjectFinance
+
+---
