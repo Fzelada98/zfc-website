@@ -431,3 +431,28 @@ https://zfcpartners.com/insights/brazil-northeast-curtailment-risk.html
 #Brazil #Curtailment #ProjectFinance
 
 ---
+
+## 2026-10-14 - Chile's Battery Queue Is Mostly Noise
+
+Thirty gigawatts of battery storage is sitting in Chile's interconnection queue right now. The country has about 2.3 GW actually running.
+
+A pipeline that size would be the biggest story in LATAM storage. This one is mostly filing cabinets.
+
+A connection request in Chile costs a developer almost nothing to file. No site control required in every case, no financial close, sometimes not even a serious intent to build.
+
+The engineering study that follows costs real money and real time, and the grid operator has to run one for every filing, live or dead.
+
+Every market that let this run long enough, CAISO, MISO, PJM, ended up forcing a financial deposit onto the process to flush speculative capacity before it clogged studies for everyone behind it. Chile hasn't yet.
+
+Lenders sizing debt against a Chilean BESS project right now cannot treat a queue position as a date. The honest milestone is a closed system impact study with a named network upgrade attached, not the day a filing entered review.
+
+Our own storage work sits across the border in Peru. Same discipline either way: the interconnection date belongs in the financing plan, not copied out of a government tracker.
+
+Genuinely open: does Chile attach a cost to filing before the queue forces its hand, the way congestion forced it in the US, or does the real build-out just outrun the speculation on its own?
+
+Full mechanism, the funnel from filing to financed asset, and the number behind "thirteen times":
+https://zfcpartners.com/insights/chile-battery-queue-speculation-risk.html
+
+#Chile #BESS #ProjectFinance
+
+---
