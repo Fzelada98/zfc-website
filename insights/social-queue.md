@@ -434,6 +434,8 @@ https://zfcpartners.com/insights/brazil-northeast-curtailment-risk.html
 
 ## 2026-10-14 - Chile's Battery Queue Is Mostly Noise
 
+<!-- PUBLISHED:make-webhook at 2026-10-14T08:52:16Z -->
+
 Thirty gigawatts of battery storage is sitting in Chile's interconnection queue right now. The country has about 2.3 GW actually running.
 
 A pipeline that size would be the biggest story in LATAM storage. This one is mostly filing cabinets.
