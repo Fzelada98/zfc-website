@@ -461,6 +461,8 @@ https://zfcpartners.com/insights/chile-battery-queue-speculation-risk.html
 
 ## 2026-10-16 - Chile's Data Centers Are Not the Curtailment Fix
 
+<!-- PUBLISHED:make-webhook at 2026-10-16T08:56:41Z -->
+
 Chile's data-center demand is projected to climb from about 325 MW in 2025 to 1,207 MW by 2030, per CEN estimates reported locally, nearly all of it landing around Santiago.
 
 The pitch going around lending and development circles is that this demand finally gives Chile's curtailed solar a buyer.
