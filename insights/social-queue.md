@@ -458,3 +458,34 @@ https://zfcpartners.com/insights/chile-battery-queue-speculation-risk.html
 #Chile #BESS #ProjectFinance
 
 ---
+
+## 2026-10-16 - Chile's Data Centers Are Not the Curtailment Fix
+
+Chile's data-center demand is projected to climb from about 325 MW in 2025 to 1,207 MW by 2030, per CEN estimates reported locally, nearly all of it landing around Santiago.
+
+The pitch going around lending and development circles is that this demand finally gives Chile's curtailed solar a buyer.
+
+It mostly won't. The constraint is shape, not megawatts.
+
+Chile curtailed roughly 6,084 GWh of solar and wind in 2025, almost all of it at midday. A data center runs flat, every hour, above 90% capacity factor, and doesn't care what the sun is doing.
+
+Shaping that gap costs money. Chile's new capacity-payment rule pays full credit only past five hours of battery duration. Most storage under construction today sits at two to four.
+
+A generator flattening solar into a hyperscaler's load with under-duration batteries buys the gap twice, once building the battery, again on the spot market when it runs dry before the load does.
+
+The firm capacity built to cover that gap needs its own interconnection point, usually at the same Santiago-area substations already sitting behind roughly 30 GW of battery filings against 2.3 GW actually running.
+
+New firm capacity competing for those nodes doesn't ease that congestion. It adds another name to the queue.
+
+My own read: this demand builds a second capacity stack next to the curtailment problem, not a buyer for it.
+
+Our pipeline sits in Peru, not Chile, but the same shaping question is coming our way eventually.
+
+Genuinely open: does Chile route hyperscale load through contracts sharing the same congested nodes as the curtailed solar, or build transmission specifically for it, kept apart from the renewable queue?
+
+Full mechanism, and the debt-sizing problem a flat load creates:
+https://zfcpartners.com/insights/chile-data-center-shaping-risk.html
+
+#Chile #DataCenters #ProjectFinance
+
+---
