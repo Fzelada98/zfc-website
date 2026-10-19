@@ -491,3 +491,24 @@ https://zfcpartners.com/insights/chile-data-center-shaping-risk.html
 #Chile #DataCenters #ProjectFinance
 
 ---
+
+## 2026-10-19 - Panama's Exports Have a Sovereign Off-Switch
+
+Panama cut electricity exports to Central America again this year. Same reservoirs, same El Niño pattern, same move it made back in 2024.
+
+Most coverage treats this as a drought story, which buries the part that actually matters for anyone holding a cross-border contract. ETESA's own language on the cutoff was blunt: exports suspended "to guarantee national electric supply." The agreement didn't fail on engineering. It lost a priority fight the moment Panamanian and regional demand hit the same water at once.
+
+Costa Rica's state utility, ICE, has already said what that's worth: double or triple the going rate in dry season without the Panamanian imports it had been leaning on as if they were firm.
+
+Panama's own domestic tenders haven't repriced this either. Roughly half the firm supply contracts awarded for 2023-2026 still went to the same hydro fleet that has now missed two export commitments on this exact trigger.
+
+A megawatt sold across a border is firm until the seller's own citizens need it more. That clause sits in the exporting country's law, not in the PPA.
+
+Genuinely open: does the regional market ever build a mechanism that makes a cutoff cost the exporter something, or does every importer just keep absorbing the spot spike alone?
+
+Full mechanism, and what it means for anyone pricing cross-border hydro as bankable capacity:
+https://zfcpartners.com/insights/panama-regional-export-curtailment-risk.html
+
+#Panama #ProjectFinance #EnergyTransition
+
+---
