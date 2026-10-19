@@ -494,6 +494,8 @@ https://zfcpartners.com/insights/chile-data-center-shaping-risk.html
 
 ## 2026-10-19 - Panama's Exports Have a Sovereign Off-Switch
 
+<!-- PUBLISHED:make-webhook at 2026-10-19T08:45:05Z -->
+
 Panama cut electricity exports to Central America again this year. Same reservoirs, same El Niño pattern, same move it made back in 2024.
 
 Most coverage treats this as a drought story, which buries the part that actually matters for anyone holding a cross-border contract. ETESA's own language on the cutoff was blunt: exports suspended "to guarantee national electric supply." The agreement didn't fail on engineering. It lost a priority fight the moment Panamanian and regional demand hit the same water at once.
