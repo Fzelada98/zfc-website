@@ -517,6 +517,8 @@ https://zfcpartners.com/insights/panama-regional-export-curtailment-risk.html
 
 ## 2026-10-21 - Uruguay Is Walking Away From Its Own PPA
 
+<!-- PUBLISHED:make-webhook at 2026-10-21T08:50:18Z -->
+
 Uruguay built one of the cleanest grids on earth using a tool it is now stepping back from.
 
 Fixed-price, 20-year, take-or-pay PPAs. The exact template most of LATAM is still trying to copy, Peru included.
