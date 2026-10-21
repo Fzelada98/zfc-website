@@ -514,3 +514,34 @@ https://zfcpartners.com/insights/panama-regional-export-curtailment-risk.html
 #Panama #ProjectFinance #EnergyTransition
 
 ---
+
+## 2026-10-21 - Uruguay Is Walking Away From Its Own PPA
+
+Uruguay built one of the cleanest grids on earth using a tool it is now stepping back from.
+
+Fixed-price, 20-year, take-or-pay PPAs. The exact template most of LATAM is still trying to copy, Peru included.
+
+UTE's next 500 MW of solar, due to tender by the end of 2026, won't be bought that way, per its own president.
+
+UTE's reasoning traces straight to cost. A former UTE director puts the price of its existing overpriced contracts near $5 billion, UTE paying over $120/MWh for solar signed years back against roughly $40 a megawatt-hour the same tech clears today.
+
+That's one critic's number. UTE hasn't published its own. Nobody in Uruguay's power sector is seriously arguing the direction is wrong.
+
+A 20-year fixed PPA prices scarcity. Uruguay priced its way past scarcity, hit close to 99% renewable generation, and turned net exporter in 2024. Exports hit 130 GWh in May alone, more than triple April's total, per Ámbito.
+
+Selling the surplus abroad recovers some value. It doesn't touch the fixed price UTE still owes generators for power the grid didn't need that hour.
+
+UTE has also said a depressed spot price won't finance the next tranche. So what replaces the PPA sits in neither camp, and nobody's said yet.
+
+Whatever it is, it has to do the one thing a PPA does that merchant exposure can't: let a lender size debt against something other than a spot price UTE itself just disowned.
+
+My own pipeline sits in Peru, carrying the opposite problem, an auction that hasn't opened a new round since 2024 rather than a contract model in retreat. Same question, approached from opposite ends: what's bankable once the 20-year fixed PPA stops being the default yes.
+
+Genuinely open: does UTE's next structure still clear with a lender in the room, or does Uruguay's next 500 MW get built by whoever doesn't need one?
+
+Full mechanism, and what a former director's $5 billion estimate actually implies:
+https://zfcpartners.com/insights/uruguay-ppa-retreat-risk.html
+
+#Uruguay #ProjectFinance #LatAmEnergy
+
+---
