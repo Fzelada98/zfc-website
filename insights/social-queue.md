@@ -547,3 +547,30 @@ https://zfcpartners.com/insights/uruguay-ppa-retreat-risk.html
 #Uruguay #ProjectFinance #LatAmEnergy
 
 ---
+
+## 2026-10-23 - Bolivia's Energy Law Doesn't Fix Its Dollar Problem
+
+70% of Bolivia's electricity runs on gas that is running out.
+
+YPFB's own president says output has fallen from 59 million cubic metres a day in 2014 to 37 now. A Harvard Growth Lab paper puts the drop even further, 54% below peak.
+
+The backup is diesel. Bolivia imports about 86% of it, and the subsidy gap YPFB is carrying runs near $84 million a month, per the company's own figures.
+
+Into that gap, the energy ministry drafted a law this year to open generation and distribution to private capital: a new regulator, competitive auctions, the same template Peru and Chile already run.
+
+What the coverage keeps missing: an auction clears a price in bolivianos. It does not create the dollars a contract like that eventually needs paid in something harder.
+
+Bolivia has held electricity and fuel prices below cost for years. That same underpricing is what the Growth Lab paper blames for killing the renewable investment case, well before this law existed.
+
+My view: price any Bolivian PPA off ENDE's actual dollar liquidity and its diesel-subsidy track record, not off the auction clearing price or a law that hasn't passed.
+
+My own pipeline sits in Peru, not Bolivia, where dispatch and tariffs don't sit inside the same balance sheet as the gas shortfall underneath them.
+
+Genuinely open: does reform ever pair real auctions with tariffs that cover ENDE's cost of service, or does Bolivia end up with paper contracts nobody can finance the way Peru's or Chile's actually get financed?
+
+Full mechanism, and where the dollar math actually breaks:
+https://zfcpartners.com/insights/bolivia-gas-crisis-offtaker-risk.html
+
+#Bolivia #ProjectFinance #EnergyTransition
+
+---
