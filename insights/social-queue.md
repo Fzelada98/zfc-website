@@ -550,6 +550,8 @@ https://zfcpartners.com/insights/uruguay-ppa-retreat-risk.html
 
 ## 2026-10-23 - Bolivia's Energy Law Doesn't Fix Its Dollar Problem
 
+<!-- PUBLISHED:make-webhook at 2026-10-23T08:45:31Z -->
+
 70% of Bolivia's electricity runs on gas that is running out.
 
 YPFB's own president says output has fallen from 59 million cubic metres a day in 2014 to 37 now. A Harvard Growth Lab paper puts the drop even further, 54% below peak.
