@@ -576,3 +576,27 @@ https://zfcpartners.com/insights/bolivia-gas-crisis-offtaker-risk.html
 #Bolivia #ProjectFinance #EnergyTransition
 
 ---
+
+## 2026-10-26 - Costa Rica's Cap on Private Power
+
+Private generators produce about 18.1% of Costa Rica's electricity. ICE produces 73.2%. The law splitting that pie caps private generation at 15%, with a second basket good for another 15% on top.
+
+ICE's position is that the ceiling has years of room left, that it won't bind until 2028 when recently awarded private plants finally come online.
+
+That's a political estimate wearing engineering clothes.
+
+A statutory cap doesn't move like an interconnection queue. It applies to the whole country on the same day, and it doesn't care how clean any one project's permits are once the national total brushes the line.
+
+A bill in the legislature would tear the whole structure down and build an open market in its place. Costa Rica's own public university told lawmakers to reject it, proposing something narrower instead: raise the cap from 15% to 20%, keep the single-buyer model intact.
+
+My own read is that the narrower fix is the more likely outcome here, closer to a 20% ceiling than to a fully open market.
+
+A fully financed plant with a signed term sheet can still have no legal buyer left to sell to. That's the risk I'd underwrite first in this market, ahead of the grid itself.
+
+Genuinely open: does the legislature actually move the number, even to 20%, or does this reform stall the way the last ones did.
+
+https://zfcpartners.com/insights/costa-rica-generation-cap-risk.html
+
+#CostaRica #ProjectFinance #LatAmEnergy
+
+---
