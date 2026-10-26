@@ -579,6 +579,8 @@ https://zfcpartners.com/insights/bolivia-gas-crisis-offtaker-risk.html
 
 ## 2026-10-26 - Costa Rica's Cap on Private Power
 
+<!-- PUBLISHED:make-webhook at 2026-10-26T09:45:03Z -->
+
 Private generators produce about 18.1% of Costa Rica's electricity. ICE produces 73.2%. The law splitting that pie caps private generation at 15%, with a second basket good for another 15% on top.
 
 ICE's position is that the ceiling has years of room left, that it won't bind until 2028 when recently awarded private plants finally come online.
