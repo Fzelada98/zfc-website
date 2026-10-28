@@ -602,3 +602,25 @@ https://zfcpartners.com/insights/costa-rica-generation-cap-risk.html
 #CostaRica #ProjectFinance #LatAmEnergy
 
 ---
+
+## 2026-10-28 - Peru's Reserve Margin Has a Correlation Problem
+
+Peru's adequacy math treats a hydro shortfall and a gas shortfall as two unrelated probabilities. This year they're the same event.
+
+Hydro supplied 50.4% of generation through September, per COES. ENFEN now puts the odds of an extraordinary-magnitude El Niño Costero at 88% for October, and a Cenepred assessment has already flagged over 110 hydro plants as exposed.
+
+None of that is new on its own. What's different this time is the backup plan. Gas generation is already running close to its own ceiling, per comments from a former deputy energy minister this year, so a hydro shortfall this season can't just get absorbed by more thermal the way it used to. In May alone, hydro output fell 6.21% year over year while thermal rose 27.61%, per INEI. That's already happening, months before the rainy season ENFEN is watching hardest.
+
+Reserve margin arithmetic sums capacity across technologies as if each one's availability is an independent draw. El Niño is the event that makes hydro and gas fail for the same reason, at the same time.
+
+Wind and solar don't draw on that water. If Peru ever builds a capacity remuneration mechanism, the honest design credits that decorrelation instead of statistically derating renewables the way Colombia's reliability charge already does, with hydro risk baked into neither side of that calculation.
+
+Fair caveat: El Niño isn't a clean hedge for solar either. Heavier rainfall brings its own flooding and access risk to the same coastal sites. Decorrelated from hydro inflow isn't the same as decorrelated from El Niño.
+
+Genuinely open: does Osinergmin price that correlation in when it finally designs a capacity mechanism, or does Peru run Colombia's exact mistake a second time, with different weather behind it?
+
+https://zfcpartners.com/insights/peru-hydro-correlation-risk.html
+
+#Peru #ProjectFinance #EnergyTransition
+
+---
