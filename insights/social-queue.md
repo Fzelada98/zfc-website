@@ -605,6 +605,8 @@ https://zfcpartners.com/insights/costa-rica-generation-cap-risk.html
 
 ## 2026-10-28 - Peru's Reserve Margin Has a Correlation Problem
 
+<!-- PUBLISHED:make-webhook at 2026-10-28T09:45:05Z -->
+
 Peru's adequacy math treats a hydro shortfall and a gas shortfall as two unrelated probabilities. This year they're the same event.
 
 Hydro supplied 50.4% of generation through September, per COES. ENFEN now puts the odds of an extraordinary-magnitude El Niño Costero at 88% for October, and a Cenepred assessment has already flagged over 110 hydro plants as exposed.
