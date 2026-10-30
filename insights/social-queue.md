@@ -626,3 +626,24 @@ https://zfcpartners.com/insights/peru-hydro-correlation-risk.html
 #Peru #ProjectFinance #EnergyTransition
 
 ---
+
+## 2026-10-30 - The Dominican Republic's Curtailment Floor
+
+The Dominican Republic is curtailing solar at a renewable share most grids would still call early days.
+
+Twenty percent penetration, not sixty. Per the grid operator's own first-half 2025 report, May alone saw 16,171 MWh curtailed, about 18% of that month's generation.
+
+The usual curtailment story is a ceiling: renewables eventually outgrow the wire or the hour. This one is a floor problem. Much of the thermal fleet runs under must-run IPP contracts and can't ramp down far enough when midday solar rises, so the plant with no dispatch protection is the one asked to step aside.
+
+That removes the runway lenders usually assume a low-penetration market still has. The next gigawatt of solar faces close to the same proportional exposure as the last one, because the constraint underneath it hasn't moved an inch.
+
+It gets worse on revenue. Some renewable PPAs here are priced off the average energy purchase reference rate, which fell in 2025 per the state utilities' own reporting. Curtailed volume and a falling price benchmark, sitting in the same contract.
+
+A 600 MW tender now mandates four hours of paired storage. Real response, credit where due. I'm just not convinced four hours reaches a constraint that's contractual rather than technical.
+
+Full mechanism, and where the PPA exposure actually sits:
+https://zfcpartners.com/insights/dominican-republic-thermal-curtailment-risk.html
+
+#DominicanRepublic #ProjectFinance #EnergyTransition
+
+---
