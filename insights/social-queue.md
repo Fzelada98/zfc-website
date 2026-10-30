@@ -629,6 +629,8 @@ https://zfcpartners.com/insights/peru-hydro-correlation-risk.html
 
 ## 2026-10-30 - The Dominican Republic's Curtailment Floor
 
+<!-- PUBLISHED:make-webhook at 2026-10-30T09:45:03Z -->
+
 The Dominican Republic is curtailing solar at a renewable share most grids would still call early days.
 
 Twenty percent penetration, not sixty. Per the grid operator's own first-half 2025 report, May alone saw 16,171 MWh curtailed, about 18% of that month's generation.
