@@ -649,3 +649,29 @@ https://zfcpartners.com/insights/dominican-republic-thermal-curtailment-risk.htm
 #DominicanRepublic #ProjectFinance #EnergyTransition
 
 ---
+
+## 2026-11-02 - Paraguay's Surplus Isn't a Signed Contract
+
+Paraguay is selling a reported $8 billion AI data center pipeline on one number: a hydro surplus big enough to quiet most skeptics on sight.
+
+Itaipú's treaty share alone, 7,000 MW, covers roughly 86% of national demand. December 2025 peak demand ran near 5,280 MW against about 8,760 MW of available capacity, per Hashrate Index.
+
+That is a real surplus. It is not a financeable megawatt, and Paraguay already ran the experiment that proves it.
+
+Crypto mining got there first. ABC Color reported that ANDE cut medium-voltage mining allocations from an expected 117 MW down to 69.3 MW, once the sector got large enough to matter to ANDE's own revenue, which it separately put near $350 million for 2026.
+
+A national energy balance is a planning assumption. An interconnection agreement at a named substation is a financeable asset. Paraguay has plenty of the first and is still building the second, with a $150 million IDB, EIB and EU-backed grid upgrade running on a multi-year clock.
+
+Reporting on the data center pipeline notes the preliminary connection documents don't yet obligate either side to sign an actual supply contract.
+
+Underwrite the agreement. Not the dam.
+
+My own pipeline runs the opposite constraint, in Peru, generation queued behind transmission rather than load queued behind it. Same discipline either way: ask what is contracted, not what a balance sheet calls spare.
+
+Genuinely open: does ANDE's transmission build outrun the pipeline's financing clock, or does the mining precedent repeat once data centers are the ones asking?
+
+https://zfcpartners.com/insights/paraguay-interconnection-capacity-gap.html
+
+#Paraguay #DataCenters #ProjectFinance
+
+---
