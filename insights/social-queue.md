@@ -652,6 +652,8 @@ https://zfcpartners.com/insights/dominican-republic-thermal-curtailment-risk.htm
 
 ## 2026-11-02 - Paraguay's Surplus Isn't a Signed Contract
 
+<!-- PUBLISHED:make-webhook at 2026-11-02T09:45:04Z -->
+
 Paraguay is selling a reported $8 billion AI data center pipeline on one number: a hydro surplus big enough to quiet most skeptics on sight.
 
 Itaipú's treaty share alone, 7,000 MW, covers roughly 86% of national demand. December 2025 peak demand ran near 5,280 MW against about 8,760 MW of available capacity, per Hashrate Index.
