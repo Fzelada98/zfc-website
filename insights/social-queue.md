@@ -677,3 +677,28 @@ https://zfcpartners.com/insights/paraguay-interconnection-capacity-gap.html
 #Paraguay #DataCenters #ProjectFinance
 
 ---
+
+## 2026-11-04 - Chile's Generators Are Financing Their Own Government
+
+Chile's generators have spent six years financing their own government, and most people still call it electricity revenue.
+
+A 2019 tariff freeze shifted the cost gap onto generators' books instead of household bills. A CNE-based estimate puts the ceiling on that debt near US$4.6 billion by mid-2025, before interest.
+
+A second fund created in 2022 grew by US$5.5 billion, per Enel Generación's own 2026 filings. Only US$3.7 billion of that is even eligible for a state guarantee, and the guarantee covers 30 percent of it.
+
+Guaranteeing three dollars in ten still leaves a lender exposed on the other seven.
+
+A 2024 indexing error at the regulator handed generators an extra US$117 million and cost the energy minister his job. A regulator's arithmetic turned out to be its own source of risk here, separate from the politics.
+
+Fair point for the other side: the alternative was a tariff shock Chilean households might not have absorbed, and generators did eventually raise financing against the receivable rather than going unpaid.
+
+Model this balance like a decade-long sovereign bond, not working capital due in the ordinary course.
+
+Genuinely open: does a repayment schedule already pushed from 2032 to 2035 survive the next government with less fiscal room?
+
+Full mechanism, and where the unguaranteed tail actually sits:
+https://zfcpartners.com/insights/chile-tariff-freeze-sovereign-risk.html
+
+#Chile #ProjectFinance #LatAmEnergy
+
+---
