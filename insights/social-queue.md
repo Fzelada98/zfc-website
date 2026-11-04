@@ -680,6 +680,8 @@ https://zfcpartners.com/insights/paraguay-interconnection-capacity-gap.html
 
 ## 2026-11-04 - Chile's Generators Are Financing Their Own Government
 
+<!-- PUBLISHED:make-webhook at 2026-11-04T09:45:05Z -->
+
 Chile's generators have spent six years financing their own government, and most people still call it electricity revenue.
 
 A 2019 tariff freeze shifted the cost gap onto generators' books instead of household bills. A CNE-based estimate puts the ceiling on that debt near US$4.6 billion by mid-2025, before interest.
