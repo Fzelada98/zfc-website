@@ -680,6 +680,8 @@ https://zfcpartners.com/insights/paraguay-interconnection-capacity-gap.html
 
 ## 2026-11-06 - Argentina Swapped One Weak Payer for Two Dozen Untested Ones
 
+<!-- PUBLISHED:make-webhook at 2026-11-06T09:45:04Z -->
+
 Every Argentine power deck this quarter says the same thing: CAMMESA is stepping back, corporate PPAs are coming, the market finally looks like Chile's or Mexico's.
 
 Decree 450/2025 makes distributors source at least 75% of their supply through direct corporate contracts. CAMMESA's own role shrinks to technical dispatch and settlement. Resolution SE 400 pushes big industrial users the same direction.
