@@ -678,6 +678,28 @@ https://zfcpartners.com/insights/paraguay-interconnection-capacity-gap.html
 
 ---
 
+## 2026-11-06 - Argentina Swapped One Weak Payer for Two Dozen Untested Ones
+
+Every Argentine power deck this quarter says the same thing: CAMMESA is stepping back, corporate PPAs are coming, the market finally looks like Chile's or Mexico's.
+
+Decree 450/2025 makes distributors source at least 75% of their supply through direct corporate contracts. CAMMESA's own role shrinks to technical dispatch and settlement. Resolution SE 400 pushes big industrial users the same direction.
+
+Nobody's asking the only question that matters for debt sizing: are the new payers actually better credits than the old one.
+
+CAMMESA paid renewable generators roughly 40% of what it owed them in September 2025, because the FODER trust missed its government transfer that month, per La Política Online. Ugly, but it was one number everyone in the room was watching.
+
+Argentina has no single national tariff authority. Each distributor's margin, and its ability to honor a PPA, depends on whichever province set that tariff last. A payment problem now needs a credit file per distributor, not per market.
+
+The counterargument deserves airtime: fragmented markets are also where collateral and credit enhancement actually get built, because there's no aggregator left to paper over the gap. That's a real possibility. It just isn't the base case in year one.
+
+Grade the balance sheet signing the contract. The decree didn't write a better one, it just wrote more of them.
+
+https://zfcpartners.com/insights/argentina-distributor-offtake-risk.html
+
+#Argentina #ProjectFinance #LatAmEnergy
+
+---
+
 ## 2026-11-04 - Chile's Generators Are Financing Their Own Government
 
 <!-- PUBLISHED:make-webhook at 2026-11-04T09:45:05Z -->
