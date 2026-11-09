@@ -731,6 +731,8 @@ https://zfcpartners.com/insights/chile-tariff-freeze-sovereign-risk.html
 
 ## 2026-11-09 - Honduras Bonded a Power Bill Instead of Paying It
 
+<!-- PUBLISHED:make-webhook at 2026-11-09T09:45:04Z -->
+
 Honduras's ENEE owes private generators roughly $655 million for power delivered months ago, per Energía Estratégica. Instead of paying that bill, the government is bonding it.
 
 Sefin authorized ENEE to issue up to L7,152.7 million specifically to cover this arrears pile. L3,510.5 million went out in May, another L2,200 million in June, at terms running five to fifteen years.
