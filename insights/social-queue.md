@@ -728,3 +728,28 @@ https://zfcpartners.com/insights/chile-tariff-freeze-sovereign-risk.html
 #Chile #ProjectFinance #LatAmEnergy
 
 ---
+
+## 2026-11-09 - Honduras Bonded a Power Bill Instead of Paying It
+
+Honduras's ENEE owes private generators roughly $655 million for power delivered months ago, per Energía Estratégica. Instead of paying that bill, the government is bonding it.
+
+Sefin authorized ENEE to issue up to L7,152.7 million specifically to cover this arrears pile. L3,510.5 million went out in May, another L2,200 million in June, at terms running five to fifteen years.
+
+That swap changes what a generator is actually holding. A sixty-day receivable is a working-capital risk any credit committee can underwrite. A fifteen-year bond is a sovereign claim, backed by the same treasury that let the arrears grow in the first place. Sefin's own plan already has ENEE needing L35,434 million through 2029.
+
+Lufussa reportedly cut its own generation this year for lack of fuel money. A market fire in Juticalpa got tied to the resulting outages. The stress is already operational.
+
+Lenders financing new Honduran generation should price the bond terms, not the invoice, the moment arrears cross ninety days.
+
+Fair counterpoint: a dated instrument beats an open-ended IOU. It still is not the same as getting paid.
+
+My own pipeline sits in Peru, where an independent system operator runs dispatch, not the single utility that is buyer, controller and now bond issuer at once.
+
+Genuinely open: does this bond program clear the backlog by 2027, or does it just stack a new liability on top of the old one?
+
+Full mechanism, and the numbers behind the swap:
+https://zfcpartners.com/insights/honduras-enee-generator-debt-risk.html
+
+#Honduras #ProjectFinance #LatAmEnergy
+
+---
