@@ -758,6 +758,8 @@ https://zfcpartners.com/insights/honduras-enee-generator-debt-risk.html
 
 ## 2026-11-11 - Brazil Is Selling Gigawatts It Hasn't Connected
 
+<!-- PUBLISHED:make-webhook at 2026-11-11T09:45:01Z -->
+
 Twenty gigawatts requested. Two hundred twenty-eight megawatts awarded.
 
 That's Brazil's data center grid queue today, per ONS's own numbers, and it's the gap no investment deck is showing.
