@@ -755,3 +755,28 @@ https://zfcpartners.com/insights/honduras-enee-generator-debt-risk.html
 #Honduras #ProjectFinance #LatAmEnergy
 
 ---
+
+## 2026-11-11 - Brazil Is Selling Gigawatts It Hasn't Connected
+
+Twenty gigawatts requested. Two hundred twenty-eight megawatts awarded.
+
+That's Brazil's data center grid queue today, per ONS's own numbers, and it's the gap no investment deck is showing.
+
+The pitch is energy abundance: curtailed wind and solar ONS projects could reach 40 GW a year by 2027-2030, sitting there for a hyperscaler to buy cheap. The actual constraint is a wire into a substation. 65% of the connection requests already filed come from renewable generators themselves, competing for the same slots as the loads meant to consume their output.
+
+Brazil built a market meant to let a large consumer buy that curtailed surplus directly. New sign-ups to it contracted 32% in two months this year, as spot-price volatility and curtailment turned it into the worse bet against the regulated tariff.
+
+Capital committed and megawatts connected are different line items. Only one carries a queue number.
+
+My own pipeline sits in Peru, underwriting the identical mismatch from the supply side: generation queued roughly twenty times deeper than the wire leaving it.
+
+Fair caveat: ONS also says about 10 GW of data center demand is already staged in its process, 3 GW under signed contracts. Clear a third of that in two years and this argument gets a lot less interesting.
+
+Genuinely open: does REDATA compress that queue fast enough to match 2027-2028 build timelines, or does Brazil's AI boom hit the same queue-versus-wire wall already slowing new generation across the region?
+
+Full mechanism and the REDATA numbers:
+https://zfcpartners.com/insights/brazil-data-center-grid-queue-risk.html
+
+#Brazil #DataCenters #ProjectFinance
+
+---
