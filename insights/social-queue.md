@@ -785,6 +785,8 @@ https://zfcpartners.com/insights/brazil-data-center-grid-queue-risk.html
 
 ## 2026-11-13 - Peru Just Put a Clock on Its Cheapest Power
 
+<!-- PUBLISHED:make-webhook at 2026-11-13T09:45:04Z -->
+
 Peru's Ministry of Energy quietly shortened the clock on the cheapest power in the country.
 
 Proven gas reserves: 6.52 TCF, 95% of it in the Camisea lots, down 43% from 11.5 TCF in 2004. At current burn that is 12 to 13 years, per the ministry's own count this month.
