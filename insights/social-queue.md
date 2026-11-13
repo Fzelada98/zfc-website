@@ -782,3 +782,26 @@ https://zfcpartners.com/insights/brazil-data-center-grid-queue-risk.html
 #Brazil #DataCenters #ProjectFinance
 
 ---
+
+## 2026-11-13 - Peru Just Put a Clock on Its Cheapest Power
+
+Peru's Ministry of Energy quietly shortened the clock on the cheapest power in the country.
+
+Proven gas reserves: 6.52 TCF, 95% of it in the Camisea lots, down 43% from 11.5 TCF in 2004. At current burn that is 12 to 13 years, per the ministry's own count this month.
+
+Every uncontracted megawatt in Peru's SEIN clears against a marginal cost that gas sets most hours. COES puts gas at roughly 28% of 2026 generation. That number has held steady for two decades because nobody priced Camisea as finite.
+
+It is finite. A March pipeline rupture already forced rationing and pushed thermal plants onto liquid fuel, briefly repricing the whole system upward. COES said capacity held. Cost didn't.
+
+That cuts two ways for a developer holding merchant exposure. A thinner gas supply can mean a higher price floor on uncontracted megawatts, or it can mean reliability costs get socialized onto every generator, gas-burning or not. Nobody has modeled which effect wins.
+
+My own pipeline sits inside this system, four Peru-based assets moving toward Ready-to-Build through 2029, pricing their eventual spot exposure against a denominator with fewer years left in it than the debt term does.
+
+Does Peru find its next Camisea before the reserves run out, or spend the 2030s importing the difference?
+
+Full mechanism and the reserve numbers:
+https://zfcpartners.com/insights/peru-gas-depletion-marginal-cost-risk.html
+
+#Peru #ProjectFinance #LatAmEnergy
+
+---
