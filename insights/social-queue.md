@@ -810,6 +810,8 @@ https://zfcpartners.com/insights/peru-gas-depletion-marginal-cost-risk.html
 
 ## 2026-11-16 - Mexico Settled the Wrong Fight
 
+<!-- PUBLISHED:make-webhook at 2026-11-16T09:45:03Z -->
+
 Mexico's electricity reform spent two years settling who controls the grid. It spent no time on what a lender can size debt against.
 
 CFE keeps at least 54% of everything injected into the system. Settled.
