@@ -807,3 +807,30 @@ https://zfcpartners.com/insights/peru-gas-depletion-marginal-cost-risk.html
 #Peru #ProjectFinance #LatAmEnergy
 
 ---
+
+## 2026-11-16 - Mexico Settled the Wrong Fight
+
+Mexico's electricity reform spent two years settling who controls the grid. It spent no time on what a lender can size debt against.
+
+CFE keeps at least 54% of everything injected into the system. Settled.
+
+What's unsettled: the auction that used to anchor project debt is gone. Selected private projects now sell power through bilateral contracts with industrial offtakers, or into the wholesale market, instead of a 20-year CFE-backed PPA.
+
+A CFE auction contract was quasi-sovereign credit, a tenor matched to debt amortization, four completed rounds of precedent behind the termination language. A bilateral deal with one steel plant or one data center carries none of that history.
+
+Mexico is also about to need the power regardless of who signs for it. IMCO puts the generation shortfall above 48,000 GWh by 2030 if transmission investment slips, and a separate IMCO read of Plan México's own growth goals puts 2030 demand 10.1% above the official plan, roughly 11.9 GW of capacity nobody has built yet.
+
+A short grid doesn't wait for the cleanest counterparty in the queue. Curtailment and dispatch risk sit on top of the new credit risk. They don't replace it.
+
+My read: price a Mexican bilateral PPA like a loan to whichever company signed it, not like the old CFE paper, until there's a real record of how these contracts behave when one breaks.
+
+Our own pipeline sits in Peru, different mechanism, same habit: grade the entity that actually signs the wire transfer.
+
+Genuinely open: does a body of bankable precedent build fast enough here before 2030's numbers bite, or does Mexico's industrial buildout outrun the paperwork and the grid at the same time?
+
+Full mechanism and the IMCO numbers behind it:
+https://zfcpartners.com/insights/mexico-bilateral-ppa-deficit-risk.html
+
+#Mexico #ProjectFinance #LatAmEnergy
+
+---
