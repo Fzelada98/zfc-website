@@ -836,3 +836,22 @@ https://zfcpartners.com/insights/mexico-bilateral-ppa-deficit-risk.html
 #Mexico #ProjectFinance #LatAmEnergy
 
 ---
+
+## 2026-11-18 - Uruguay's Tender Contradicted Its Own Policy
+
+UTE told the market it was done buying solar under 20-year fixed PPAs. Three weeks later it tendered the first slice of that same program under a 20-year fixed PPA.
+
+Three plants, 33 MW each, 99 MW total, no storage, roughly $75 million in private capital attached. Nothing exotic about the structure. That is the point.
+
+A 33 MW plant with a short runway to financial close gets one credible lender conversation: a contracted revenue line that matches the debt's tenor. In a grid running close to 99% renewable, with spot prices that fall toward zero in the hours solar actually produces, merchant exposure does not close financing on that clock, whatever the policy says is coming next.
+
+The near-term tranche reached for the instrument that still works. Whatever UTE's leadership meant by moving past the PPA, that redesign needed scale and time this 99 MW never had.
+
+Roughly 400 MW of the five-year target is still untendered. Does a later, bigger block actually carry a different structure, or does every tranche with a real deadline quietly do what this one just did?
+
+Full mechanism and the tender numbers:
+https://zfcpartners.com/insights/uruguay-ppa-policy-practice-gap.html
+
+#Uruguay #ProjectFinance #LatAmEnergy
+
+---
