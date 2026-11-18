@@ -839,6 +839,8 @@ https://zfcpartners.com/insights/mexico-bilateral-ppa-deficit-risk.html
 
 ## 2026-11-18 - Uruguay's Tender Contradicted Its Own Policy
 
+<!-- PUBLISHED:make-webhook at 2026-11-18T09:45:06Z -->
+
 UTE told the market it was done buying solar under 20-year fixed PPAs. Three weeks later it tendered the first slice of that same program under a 20-year fixed PPA.
 
 Three plants, 33 MW each, 99 MW total, no storage, roughly $75 million in private capital attached. Nothing exotic about the structure. That is the point.
