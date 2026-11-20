@@ -860,6 +860,8 @@ https://zfcpartners.com/insights/uruguay-ppa-policy-practice-gap.html
 
 ## 2026-11-20 - Colombia Built the Battery Rules After the Battery
 
+<!-- PUBLISHED:make-webhook at 2026-11-20T09:45:04Z -->
+
 Colombia just auctioned 100 MW of battery storage into its grid for the first time. The rulebook that tells a lender what that battery actually earns is still being written.
 
 XM puts the firm-energy shortfall at 7,207 GWh-year for 2026-2027, per its own Boletín Energético, widening to -6.8% of demand by 2030. Only 23% of this year's expected new capacity had come online by September.
