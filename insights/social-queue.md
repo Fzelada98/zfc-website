@@ -857,3 +857,26 @@ https://zfcpartners.com/insights/uruguay-ppa-policy-practice-gap.html
 #Uruguay #ProjectFinance #LatAmEnergy
 
 ---
+
+## 2026-11-20 - Colombia Built the Battery Rules After the Battery
+
+Colombia just auctioned 100 MW of battery storage into its grid for the first time. The rulebook that tells a lender what that battery actually earns is still being written.
+
+XM puts the firm-energy shortfall at 7,207 GWh-year for 2026-2027, per its own Boletín Energético, widening to -6.8% of demand by 2030. Only 23% of this year's expected new capacity had come online by September.
+
+Storage is the fix on paper. The reliability charge that pays for it, ENFICC, was built to measure hydrology and fuel availability. A battery shifts someone else's megawatt-hours into the hours the system is short. That's a different service, and the current methodology wasn't built to price it.
+
+CREG's draft rules for standalone batteries above 5 MW aren't final yet. XM has up to twelve months after that resolution clears to finish the dispatch and settlement procedures that let an independent battery trade on its own account at all.
+
+Credit where due: this auction design beat waiting for a perfect one. It still doesn't tell a lender what the uncontracted half of a battery's revenue is worth.
+
+Our own storage bet sits in Peru, not Colombia, asking the same question in reverse: does the eventual capacity mechanism credit what storage does, or what an older model assumes a generator does.
+
+What I don't have a confident answer to: whether the finished dispatch rules end up crediting flexibility properly, or stay anchored to logic built for hydro and thermal.
+
+The ENFICC math and the dispatch timeline, in full:
+https://zfcpartners.com/insights/colombia-firm-energy-battery-mismatch.html
+
+#Colombia #BESS #ProjectFinance
+
+---
