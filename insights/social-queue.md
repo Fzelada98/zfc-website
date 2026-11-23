@@ -885,6 +885,8 @@ https://zfcpartners.com/insights/colombia-firm-energy-battery-mismatch.html
 
 ## 2026-11-23 - Peru Pitched Compute Capacity It Hasn't Earned Yet
 
+<!-- PUBLISHED:make-webhook at 2026-11-23T09:45:07Z -->
+
 Peru proposed a regional alliance on November 18 to sell AI compute capacity to Colombia, Ecuador and Chile, citing Brazil's REDATA as the model.
 
 Six months earlier, in May, COES had already put part of its own grid under emergency dispatch.
