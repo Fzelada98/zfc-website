@@ -882,3 +882,28 @@ https://zfcpartners.com/insights/colombia-firm-energy-battery-mismatch.html
 #Colombia #BESS #ProjectFinance
 
 ---
+
+## 2026-11-23 - Peru Pitched Compute Capacity It Hasn't Earned Yet
+
+Peru proposed a regional alliance on November 18 to sell AI compute capacity to Colombia, Ecuador and Chile, citing Brazil's REDATA as the model.
+
+Six months earlier, in May, COES had already put part of its own grid under emergency dispatch.
+
+Article 95's "Situación Excepcional" lets the operator run the Centro-Norte corridor past normal limits, because demand growth in the north outran the wire built for it. That's a disclosure, before any AI load has even applied for a connection: the margin on that line is already spent.
+
+Peru's actual data-center build today is colocation. GTD's second phase at Lurín adds 20 MW for roughly $13 million. Artizon projects the whole national market at $378 million by 2031. Querétaro and São Paulo are fighting over gigawatts.
+
+MINEM has $2.1 billion in transmission projects moving. That pipeline is the real precondition for any regional role, not a press release.
+
+Fair pushback: the alliance may be mostly about fiber routing, not generation. Whatever anchors a compute node still has to draw power from somewhere on this grid.
+
+My own project here sits in Moquegua, on a different corridor than the one under strain.
+
+Genuinely open: does $2.1 billion in transmission capex clear before the next announcement, or does Peru keep pitching a role its grid hasn't earned?
+
+Full mechanism and the numbers behind it:
+https://zfcpartners.com/insights/peru-regional-compute-grid-gap.html
+
+#Peru #EnergyForAI #DataCenters
+
+---
