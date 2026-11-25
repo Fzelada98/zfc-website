@@ -912,6 +912,8 @@ https://zfcpartners.com/insights/peru-regional-compute-grid-gap.html
 
 ## 2026-11-25 - Chile Built the Panels Faster Than the Line
 
+<!-- PUBLISHED:make-webhook at 2026-11-25T09:45:06Z -->
+
 Per CEN, 40% of the 161 transmission projects it currently tracks are running more than 10% behind their own construction schedule. For new-build lines specifically, the figure is 49%. Acera had flagged the broader pattern back in November 2025, putting over 70% of ongoing transmission works somewhere behind plan.
 
 Everyone's underwriting curtailment risk in Chile right now. Fewer people are underwriting the risk that sits one step earlier: a solar plant finishes construction in 12 to 18 months, on a schedule the sponsor controls. The line that lets it inject power runs on a planning-to-energization cycle Chile's own CNE puts at 7 to 10 years, controlled by a different developer entirely.
