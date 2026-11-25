@@ -909,3 +909,23 @@ https://zfcpartners.com/insights/peru-regional-compute-grid-gap.html
 #Peru #EnergyForAI #DataCenters
 
 ---
+
+## 2026-11-25 - Chile Built the Panels Faster Than the Line
+
+Per CEN, 40% of the 161 transmission projects it currently tracks are running more than 10% behind their own construction schedule. For new-build lines specifically, the figure is 49%. Acera had flagged the broader pattern back in November 2025, putting over 70% of ongoing transmission works somewhere behind plan.
+
+Everyone's underwriting curtailment risk in Chile right now. Fewer people are underwriting the risk that sits one step earlier: a solar plant finishes construction in 12 to 18 months, on a schedule the sponsor controls. The line that lets it inject power runs on a planning-to-energization cycle Chile's own CNE puts at 7 to 10 years, controlled by a different developer entirely.
+
+Finish the panels on time and the line slips, and the plant is mechanically complete with nowhere to sell. Interest still accrues on the construction loan. The PPA's long-stop date keeps ticking. A debt-sizing memo built around the generation EPC schedule alone never sees that coming.
+
+Curtailment, once connected, is at least a number you can model and split with an offtaker. A delayed interconnection is closer to zero revenue for an unknown stretch of months, against a transmission counterparty's delivery record most sponsors haven't actually diligenced.
+
+Fair pushback: Chile's grid auction and its electricity-law reform are both live attempts to shorten that cycle, so a 2028 COD project may not face the same backlog these numbers describe.
+
+What I don't know: whether that reform actually compresses the cycle, or just relocates the argument to who pays to build it faster.
+
+https://zfcpartners.com/insights/chile-interconnection-delay-risk.html
+
+#Chile #ProjectFinance #LatAmEnergy
+
+---
