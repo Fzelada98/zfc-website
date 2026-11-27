@@ -931,3 +931,28 @@ https://zfcpartners.com/insights/chile-interconnection-delay-risk.html
 #Chile #ProjectFinance #LatAmEnergy
 
 ---
+
+## 2026-11-27 - Peru Sells Clean Power by the Year
+
+Peru's clean-energy pitch to data-center developers runs on an annual certificate. The buyers it wants most have stopped counting that way.
+
+Google and Microsoft both target 24/7 carbon-free energy by 2030, matching load against clean generation hour by hour instead of year by year. The UN-backed compact behind that standard already counts more than 100 signatories, per WRI.
+
+Peru's clean generation is still mostly a daytime product. Wind and solar supplied 10% of the country's power in 2025, per Osinergmin, nearly all of it solar with no storage attached. A PPA built on that asset covers six or seven strong hours. The other seventeen get filled by whatever SEIN dispatches that night out of a 14,492 MW system still led by thermal and hydro.
+
+An I-REC proves you generated enough somewhere over the year. It says nothing about 2am.
+
+That gap is survivable for the colocation and mid-market load Peru is actually landing today. It is a harder sell to a hyperscaler writing a load letter in the hundreds of megawatts, the buyer every regional pitch deck claims to be chasing.
+
+Fair pushback: hourly matching isn't a universal hard gate yet, and Brazil's own GHG Protocol debate shows informed people still disagree about whether it should be.
+
+My own read: developers who build the firming and certificate infrastructure for hourly matching now get first call on that demand. Everyone still selling an annual number gets whatever is left over.
+
+Genuinely open: does hourly matching harden into the regional standard before Peru's pipeline adapts, or does the mid-tier, annual-certificate business stay the only compute load this market can actually win?
+
+Full mechanism and the numbers:
+https://zfcpartners.com/insights/peru-hourly-matching-gap.html
+
+#Peru #EnergyForAI #DataCenters
+
+---
