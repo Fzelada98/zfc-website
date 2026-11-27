@@ -934,6 +934,8 @@ https://zfcpartners.com/insights/chile-interconnection-delay-risk.html
 
 ## 2026-11-27 - Peru Sells Clean Power by the Year
 
+<!-- PUBLISHED:make-webhook at 2026-11-27T09:45:03Z -->
+
 Peru's clean-energy pitch to data-center developers runs on an annual certificate. The buyers it wants most have stopped counting that way.
 
 Google and Microsoft both target 24/7 carbon-free energy by 2030, matching load against clean generation hour by hour instead of year by year. The UN-backed compact behind that standard already counts more than 100 signatories, per WRI.
